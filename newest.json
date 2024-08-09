@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "dHroEAAAQBAJ",
-      "etag": "VlRLNCetk9c",
+      "etag": "K21EQjuajXw",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
         "title": "Private Rites",
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "u42ddR3gZwI",
+      "etag": "SZ1F0x/diAE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -146,8 +146,174 @@
     },
     {
       "kind": "books#volume",
+      "id": "lJLtEAAAQBAJ",
+      "etag": "hILZ0LsuIlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Elsewhere",
+        "subtitle": "A Novel",
+        "authors": [
+          "Keanu Reeves",
+          "China Miéville"
+        ],
+        "publisher": "Random House Canada",
+        "publishedDate": "2024-07-23",
+        "description": "A mind-blowing epic from Keanu Reeves and China Miéville, unlike anything these two genre-bending pioneers have created before, inspired by the world of the BRZRKR comic books She said, We needed a tool. So I asked the gods. There have always been whispers. Legends. The warrior who cannot be killed. Who’s seen a thousand civilizations rise and fall. He has had many names: Unute, Child of Lightning, Death himself. These days, he’s known simply as “B.” And he wants to be able to die. In the present day, a U.S. black-ops group has promised him they can help with that. And all he needs to do is help them in return. But when an all-too-mortal soldier comes back to life, the impossible event ultimately points toward a force even more mysterious than B himself. One at least as strong. And one with a plan all its own. In a collaboration that combines Miéville’s singular style and creativity with Reeves’s haunting and soul-stirring narrative, these two inimitable artists have created something utterly unique, sure to delight existing fans and to create scores of new ones.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781039003828"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1039003826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lJLtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lJLtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Elsewhere.html?hl=&id=lJLtEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lJLtEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h57eEAAAQBAJ",
+      "etag": "/Id2yyjWrk0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Primal Mirror",
+        "authors": [
+          "Nalini Singh"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2024-07-23",
+        "description": "New York Times bestselling author Nalini Singh takes us into a family dark with shadowy secrets, as the world of the Psy teeters on the edge of a final catastrophic collapse. . . . Daughter of two ruthless high-Gradient telepaths, Auden Scott is not the child her Psy parents wanted or expected, even before her brain injury. Her thoughts are scattered, her memories fuzzy—or just terrifyingly blank. The only thing she knows for certain is that she must protect her unborn baby . . . a baby she has no recollection of conceiving and who draws an unnerving depth of interest from her dead mother’s closest associates. Leopard alpha Remi Denier is a man driven by the primal instinct to protect. Protect his pack, protect his allies . . . and protect the mysterious woman who has become a most unlikely neighbor. With eerie eyes that see too much and a scent that alters in ways disturbing and impossible, Auden Scott is the enemy . . . but nothing about this strange Psy is what it seems, and Remi’s feline heart is as fascinated by her as his human half. Then Auden asks Remi to help her shatter the wall of secrets that is the Scott bloodline. What they unearth will reveal a nightmare beyond imagination. This time, the battle is to the death. . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593440759"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593440757"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h57eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h57eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&rdid=book-h57eEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Primal_Mirror-sample-epub.acsm?id=h57eEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h57eEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "DxhpO1VUZl4",
+      "etag": "ml9F1wZpiaY",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -189,7 +355,7 @@
           "thumbnail": "http://books.google.com/books/content?id=hcDhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ"
       },
@@ -217,79 +383,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "VT7hEAAAQBAJ",
-      "etag": "x9/dmKBHUDw",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Lost Story",
-        "subtitle": "A Novel",
-        "authors": [
-          "Meg Shaffer"
-        ],
-        "publisher": "Ballantine Books",
-        "publishedDate": "2024-07-16",
-        "description": "NATIONAL BESTSELLER • Inspired by C. S. Lewis’s The Chronicles of Narnia, this wild and wondrous novel is a fairy tale for grown-ups who still knock on the back of wardrobes—just in case—from the author of The Wishing Game. “This is the book you’ve been waiting for.”—Richard Russo, Pulitzer Prize–winning author of Empire Falls and the North Bath Trilogy As boys, best friends Jeremy Cox and Rafe Howell went missing in a vast West Virginia state forest, only to mysteriously reappear six months later with no explanation for where they’d gone or how they’d survived. Fifteen years after their miraculous homecoming, Rafe is a reclusive artist who still bears scars inside and out but has no memory of what happened during those months. Meanwhile, Jeremy has become a famed missing persons’ investigator. With his uncanny abilities, he is the one person who can help vet tech Emilie Wendell find her sister, who vanished in the very same forest as Rafe and Jeremy. Jeremy alone knows the fantastical truth about the disappearances, for while the rest of the world was searching for them, the two missing boys were in a magical realm filled with impossible beauty and terrible danger. He believes it is there that they will find Emilie’s sister. However, Jeremy has kept Rafe in the dark since their return for his own inscrutable reasons. But the time for burying secrets comes to an end as the quest for Emilie’s sister begins. The former lost boys must confront their shared past, no matter how traumatic the memories. Alongside the headstrong Emilie, Rafe and Jeremy must return to the enchanted world they called home for six months—for only then can they get back everything and everyone they’ve lost.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593598870"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593598873"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 353,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.1.1.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Story.html?hl=&id=VT7hEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=VT7hEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "IG7pAD3qyDo",
+      "etag": "+ZswbiXaLjI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -330,7 +425,7 @@
           "thumbnail": "http://books.google.com/books/content?id=cT4NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "es",
-        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ"
       },
@@ -361,7 +456,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "1qecEDTfDAU",
+      "etag": "dd2tdfD9+c4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -403,7 +498,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yXnTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
@@ -456,7 +551,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "jjTRS2+Xn/0",
+      "etag": "Xsobt7CXtzY",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -498,7 +593,7 @@
           "thumbnail": "http://books.google.com/books/content?id=GoP7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
@@ -550,103 +645,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "YcvaEAAAQBAJ",
-      "etag": "euCb/A5YdAk",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/YcvaEAAAQBAJ",
-      "volumeInfo": {
-        "title": "Big in Sweden",
-        "subtitle": "A Novel",
-        "authors": [
-          "Sally Franson"
-        ],
-        "publisher": "HarperCollins",
-        "publishedDate": "2024-07-02",
-        "description": "“Sally Franson is a world class entertainer. She can finesse a serio-comic moment in a way that leaves you catching your breath. Deft and delicious, this book is a flat out delight machine. A heart opener, a page turner, and a true ‘originell!' I laughed out loud, I ugly cried, and I never, ever wanted it to end.\" -- Meg Ryan, actor, writer, director A charming, wise, and laugh-out-loud funny novel following an American woman competing on a Swedish reality show in an attempt to discover her roots. Paulie Johansson has never put much stock in the idea of family: she has her long-term boyfriend Declan and beloved best friend Jemma, and that’s more than enough for her. Yet one night on a lark, she lets Jemma convince her to audition for Sverige och Mig, a show on Swedish television where Swedish-Americans compete to win the ultimate prize: a reunion with their Swedish relatives. Much to her shock, her drunken submission video wins her a spot on the show, and against Declan’s advice Paulie decides to go for it. Armed with her Polaroid camera, a beat-up copy of Pippi Longstocking, and an unquenchable sense of possibility, Paulie hops on a plane to Sweden and launches into the contest with seven other Americans, all under the watchful eye of a camera crew. At first, Paulie is certain that she and her competitors have nothing in common besides their passports and views their bloodthirsty ambitions with suspicion. Yet amid the increasingly absurd challenges—rowing from Denmark to Sweden in the freezing rain, battling through obstacle courses, competing in a pickled herring eating contest—Paulie finds herself rethinking her snap judgments about her fellow countrymen, while her growing attachment to her Swedish roots increases her resolve to win the competition herself. Grappling with long-held notions of family, friendship, and love—not to mention her feelings for the distractingly handsome Swedish cameraman who’s been assigned to follow her around—Paulie starts to reconsider her past and rethink what she wants for the future. A fish-out-of-water tale filled with warmth, optimism, and wit, Big in Sweden is at its heart a love story: love for family, friends, country, and—most importantly—oneself. \"If you devoured Pippi Longstocking as a kid, you will not be able to turn away from Big in Sweden. Reading this hilarious, heartfelt book was even more fun than watching reality television. I absolutely loved it!\" — Jessica Anya Blau, author of Mary Jane",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780063312753"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0063312751"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 334,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.2.2.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=YcvaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=YcvaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=YcvaEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 14.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 14.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ&rdid=book-YcvaEAAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 14990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 14990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Big_in_Sweden-sample-epub.acsm?id=YcvaEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=YcvaEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "K2PhEAAAQBAJ",
-      "etag": "0lk5irsCc3w",
+      "etag": "9HeNmIcCTro",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Summer of Yes",
@@ -739,32 +739,33 @@
     },
     {
       "kind": "books#volume",
-      "id": "TRrdEAAAQBAJ",
-      "etag": "K+kKliC46fU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/TRrdEAAAQBAJ",
+      "id": "ZRrdEAAAQBAJ",
+      "etag": "hZcl9kQntrM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRrdEAAAQBAJ",
       "volumeInfo": {
-        "title": "The Lion Women of Tehran",
+        "title": "The Same Bright Stars",
+        "subtitle": "A Novel",
         "authors": [
-          "Marjan Kamali"
+          "Ethan Joella"
         ],
         "publisher": "Simon and Schuster",
         "publishedDate": "2024-07-02",
-        "description": "From the nationally bestselling author of the “powerful, heartbreaking” (Shelf Awareness) The Stationery Shop, a heartfelt, epic new novel of friendship, betrayal, and redemption set against three transformative decades in Tehran, Iran. In 1950s Tehran, seven-year-old Ellie lives in grand comfort until the untimely death of her father, forcing Ellie and her mother to move to a tiny home downtown. Lonely and bearing the brunt of her mother’s endless grievances, Ellie dreams of a friend to alleviate her isolation. Luckily, on the first day of school, she meets Homa, a kind, passionate girl with a brave and irrepressible spirit. Together, the two girls play games, learn to cook in the stone kitchen of Homa’s warm home, wander through the colorful stalls of the Grand Bazaar, and share their ambitions for becoming “lion women.” But their happiness is disrupted when Ellie and her mother are afforded the opportunity to return to their previous bourgeois life. Now a popular student at the best girls’ high school in Iran, Ellie’s memories of Homa begin to fade. Years later, however, her sudden reappearance in Ellie’s privileged world alters the course of both of their lives. Together, the two young women come of age and pursue their own goals for meaningful futures. But as the political turmoil in Iran builds to a breaking point, one earth-shattering betrayal will have enormous consequences. Written with Marjan Kamali’s signature “evocative, devastating, and hauntingly beautiful” (Whitney Scharer, author of The Age of Light) prose, The Lion Women of Tehran is a sweeping exploration of how profoundly we are shaped by those we meet when we are young, and the way love and courage transforms our lives.",
+        "description": "From the author of the Read with Jenna Bonus Pick A Little Hope, an uplifting and emotionally resonant novel set in a Delaware beach town about a local restaurant owner at a turning point. Three generations of Schmidts have run their family’s beachfront restaurant and Jack has been at the helm since the death of his father. Jack puts the demands of the restaurant above all else, with a string of failed relationships, no hobbies, and no days off as proof of his commitment to the place. He can’t remember the last time he sat on the beach, or even enjoyed a moment to himself. Meanwhile, the DelDine group has been gradually snapping up beloved eateries along this stretch of coast and are pursuing Jack with a very generous offer to take Schmidt’s off his hands. Jack craves companionship and maybe even a family. He wonders if closing the door on the restaurant might open a new window for him. But who would he be without Schmidt’s, and can he trust DelDine’s claims that they will continue to employ his staff and honor his family’s legacy? When he receives startling news from the past, Jack begins to reshape his life and forge unexpected new friendships. But will he really let go of the very things that have defined him?",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781668036600"
+            "identifier": "9781668024614"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1668036606"
+            "identifier": "1668024616"
           }
         ],
         "readingModes": {
           "text": true,
           "image": false
         },
-        "pageCount": 336,
+        "pageCount": 304,
         "printType": "BOOK",
         "categories": [
           "Fiction"
@@ -777,36 +778,36 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=TRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=TRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=ZRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=TRrdEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=TRrdEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TRrdEAAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=ZRrdEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 14.99,
+          "amount": 13.99,
           "currencyCode": "USD"
         },
         "retailPrice": {
-          "amount": 14.99,
+          "amount": 13.99,
           "currencyCode": "USD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=TRrdEAAAQBAJ&rdid=book-TRrdEAAAQBAJ&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&rdid=book-ZRrdEAAAQBAJ&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 14990000,
+              "amountInMicros": 13990000,
               "currencyCode": "USD"
             },
             "retailPrice": {
-              "amountInMicros": 14990000,
+              "amountInMicros": 13990000,
               "currencyCode": "USD"
             },
             "giftable": true
@@ -821,12 +822,12 @@
         "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
         "epub": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Lion_Women_of_Tehran-sample-epub.acsm?id=TRrdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.com/books/download/The_Same_Bright_Stars-sample-epub.acsm?id=ZRrdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=TRrdEAAAQBAJ&hl=&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=ZRrdEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       }
