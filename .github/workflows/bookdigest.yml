@@ -67,10 +67,12 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git diff --quiet && git diff --staged --quiet || (
+          if ! git diff --quiet newest.json; then
             git add newest.json
             git commit -m "Added genre attribute to book items using OpenAI"
             git push
-          )
+          else
+            echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
