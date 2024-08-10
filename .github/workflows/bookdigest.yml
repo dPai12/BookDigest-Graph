@@ -54,7 +54,7 @@ jobs:
                   genre = get_genre(description)
                   volume_info["genre"] = genre
 
-          with open("newest.json", "w") as file:
+          with open("modified_books.json", "w") as file:
               json.dump(data, file, indent=2)
           EOF
 
@@ -67,8 +67,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          if ! git diff --quiet newest.json; then
-            git add newest.json
+          if ! git diff --quiet modified_books.json; then
+            git add modified_books.json
             git commit -m "Added genre attribute to book items using OpenAI"
             git push
           else
