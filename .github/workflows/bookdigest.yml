@@ -11,12 +11,44 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    steps: 
+    steps:
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
       - name: Fetch newest
         uses: githubocto/flat@v3
-        with: 
+        with:
           http_url: https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest
           downloaded_filename: newest.json
-          
+
+      - name: Add genre attribute using GPT-3
+        run: |
+          apt-get update && apt-get install -y python3 python3-pip
+          pip3 install openai
+          echo 'import json' > modify_json.py
+          echo 'import openai' >> modify_json.py
+          echo 'openai.api_key = "${{ secrets.OPENAI_API_KEY }}"' >> modify_json.py
+          echo 'with open("newest.json", "r") as file:' >> modify_json.py
+          echo '    data = json.load(file)' >> modify_json.py
+          echo 'description = data["volumeInfo"]["description"]' >> modify_json.py
+          echo 'response = openai.Completion.create(' >> modify_json.py
+          echo '  model="text-davinci-003",' >> modify_json.py
+          echo '  prompt=f"Extract the genre from the following book description: {description}",' >> modify_json.py
+          echo '  max_tokens=10' >> modify_json.py
+          echo ')' >> modify_json.py
+          echo 'genre = response.choices[0].text.strip()' >> modify_json.py
+          echo 'data["volumeInfo"]["genre"] = genre' >> modify_json.py
+          echo 'with open("newest.json", "w") as file:' >> modify_json.py
+          echo '    json.dump(data, file, indent=2)' >> modify_json.py
+          python3 modify_json.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add newest.json
+          git commit -m "Added genre attribute to book item using GPT-3"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
