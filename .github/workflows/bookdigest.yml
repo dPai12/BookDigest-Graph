@@ -12,6 +12,11 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps: 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Use the latest available Python 3 version
+      
       - name: Check out repo
         uses: actions/checkout@v3
       
@@ -23,8 +28,8 @@ jobs:
 
       - name: Add genre attribute using OpenAI
         run: |
-          apt-get update && apt-get install -y python3 python3-pip
-          pip3 install openai
+          python -m pip install --upgrade pip
+          pip install openai==0.27.0  # Pin to a version before 1.0.0
 
           cat << 'EOF' > modify_json.py
           import json
@@ -35,11 +40,12 @@ jobs:
 
           def get_genre(description):
               try:
-                  response = openai.ChatCompletion.create(
-                      model="gpt-3.5-turbo",
-                      messages=[{"role": "system", "content": "Identify the genre of this book description."}, {"role": "user", "content": description}]
+                  response = openai.Completion.create(
+                      engine="text-davinci-003",
+                      prompt=f"Identify the genre of this book description: {description}",
+                      max_tokens=10
                   )
-                  return response["choices"][0]["message"]["content"].strip()
+                  return response.choices[0].text.strip()
               except Exception as e:
                   print(f"Error getting genre: {e}")
                   return "Unknown"
@@ -58,7 +64,7 @@ jobs:
               json.dump(data, file, indent=2)
           EOF
 
-          python3 modify_json.py
+          python modify_json.py
 
           # Remove the temporary script
           rm modify_json.py
