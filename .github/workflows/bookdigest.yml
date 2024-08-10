@@ -60,6 +60,9 @@ jobs:
 
           python3 modify_json.py
 
+          # Remove the temporary script
+          rm modify_json.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
