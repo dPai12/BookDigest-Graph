@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "dHroEAAAQBAJ",
-      "etag": "5Mk+P2gmx4A",
+      "etag": "LsyRhETPpbM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
         "title": "Private Rites",
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "NMXnzpvFBtM",
+      "etag": "7ixLZ8K88L8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -147,7 +147,7 @@
     {
       "kind": "books#volume",
       "id": "lJLtEAAAQBAJ",
-      "etag": "BKIAmhXtWqI",
+      "etag": "eulVVpoBo10",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
       "volumeInfo": {
         "title": "The Book of Elsewhere",
@@ -219,7 +219,7 @@
     {
       "kind": "books#volume",
       "id": "h57eEAAAQBAJ",
-      "etag": "hAbCBK7MyS8",
+      "etag": "qSN74zdITyE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
       "volumeInfo": {
         "title": "Primal Mirror",
@@ -313,7 +313,7 @@
     {
       "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "C47Cp8NCW3Q",
+      "etag": "hZzKI/idVks",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -384,7 +384,7 @@
     {
       "kind": "books#volume",
       "id": "VT7hEAAAQBAJ",
-      "etag": "lVigA+bm4Eg",
+      "etag": "6HbP5NBFe+I",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
       "volumeInfo": {
         "title": "The Lost Story",
@@ -455,7 +455,7 @@
     {
       "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "wuKCrNl7RaA",
+      "etag": "uoCbeRPswoU",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -527,7 +527,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "GvWwxjPv5Vg",
+      "etag": "anpyyJxhVD0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -622,7 +622,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "MkbgKvtwjEA",
+      "etag": "1cQwmW5VJSM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -717,7 +717,7 @@
     {
       "kind": "books#volume",
       "id": "K2PhEAAAQBAJ",
-      "etag": "LUCvRo+s3JM",
+      "etag": "yLeNiS7eoo8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Summer of Yes",
