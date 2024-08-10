@@ -6,7 +6,7 @@ on:
       - .github/workflows/bookdigest.yml
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '0 * * * *'  # Corrected to run at the start of every hour
 
 jobs:
   scheduled:
@@ -26,25 +26,37 @@ jobs:
           apt-get update && apt-get install -y python3 python3-pip
           pip3 install openai
 
-          echo 'import json' > modify_json.py
-          echo 'import openai' >> modify_json.py
-          echo 'openai.api_key = "${{ secrets.OPENAI_API_KEY }}"' >> modify_json.py
-          echo 'def get_genre(description):' >> modify_json.py
-          echo '    response = openai.ChatCompletion.create(' >> modify_json.py
-          echo '        model="gpt-3.5-turbo",' >> modify_json.py
-          echo '        messages=[{"role": "system", "content": "Identify the genre of this book description."}, {"role": "user", "content": description}]' >> modify_json.py
-          echo '    )' >> modify_json.py
-          echo '    return response["choices"][0]["message"]["content"].strip()' >> modify_json.py
-          echo 'with open("newest.json", "r") as file:' >> modify_json.py
-          echo '    data = json.load(file)' >> modify_json.py
-          echo 'for book in data.get("items", []):' >> modify_json.py
-          echo '    volume_info = book.get("volumeInfo", {})' >> modify_json.py
-          echo '    description = volume_info.get("description", "")' >> modify_json.py
-          echo '    if description:' >> modify_json.py
-          echo '        genre = get_genre(description)' >> modify_json.py
-          echo '        volume_info["genre"] = genre' >> modify_json.py
-          echo 'with open("newest.json", "w") as file:' >> modify_json.py
-          echo '    json.dump(data, file, indent=2)' >> modify_json.py
+          cat << 'EOF' > modify_json.py
+          import json
+          import openai
+          import os
+
+          openai.api_key = os.getenv("OPENAI_API_KEY")
+
+          def get_genre(description):
+              try:
+                  response = openai.ChatCompletion.create(
+                      model="gpt-3.5-turbo",
+                      messages=[{"role": "system", "content": "Identify the genre of this book description."}, {"role": "user", "content": description}]
+                  )
+                  return response["choices"][0]["message"]["content"].strip()
+              except Exception as e:
+                  print(f"Error getting genre: {e}")
+                  return "Unknown"
+
+          with open("newest.json", "r") as file:
+              data = json.load(file)
+
+          for book in data.get("items", []):
+              volume_info = book.get("volumeInfo", {})
+              description = volume_info.get("description", "")
+              if description:
+                  genre = get_genre(description)
+                  volume_info["genre"] = genre
+
+          with open("newest.json", "w") as file:
+              json.dump(data, file, indent=2)
+          EOF
 
           python3 modify_json.py
 
@@ -52,8 +64,10 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add newest.json
-          git commit -m "Added genre attribute to book items using OpenAI"
-          git push
+          git diff --quiet && git diff --staged --quiet || (
+            git add newest.json
+            git commit -m "Added genre attribute to book items using OpenAI"
+            git push
+          )
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
