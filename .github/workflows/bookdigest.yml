@@ -25,17 +25,16 @@ jobs:
         run: |
           apt-get update && apt-get install -y python3 python3-pip
           pip3 install openai
-          
+
           echo 'import json' > modify_json.py
           echo 'import openai' >> modify_json.py
           echo 'openai.api_key = "${{ secrets.OPENAI_API_KEY }}"' >> modify_json.py
           echo 'def get_genre(description):' >> modify_json.py
-          echo '    response = openai.Completion.create(' >> modify_json.py
-          echo '        engine="text-davinci-003",' >> modify_json.py
-          echo '        prompt=f"Identify the genre of this book description: {description}",' >> modify_json.py
-          echo '        max_tokens=10' >> modify_json.py
+          echo '    response = openai.ChatCompletion.create(' >> modify_json.py
+          echo '        model="gpt-3.5-turbo",' >> modify_json.py
+          echo '        messages=[{"role": "system", "content": "Identify the genre of this book description."}, {"role": "user", "content": description}]' >> modify_json.py
           echo '    )' >> modify_json.py
-          echo '    return response.choices[0].text.strip()' >> modify_json.py
+          echo '    return response["choices"][0]["message"]["content"].strip()' >> modify_json.py
           echo 'with open("newest.json", "r") as file:' >> modify_json.py
           echo '    data = json.load(file)' >> modify_json.py
           echo 'for book in data.get("items", []):' >> modify_json.py
