@@ -4,25 +4,25 @@
   "items": [
     {
       "kind": "books#volume",
-      "id": "h8UCEQAAQBAJ",
-      "etag": "/Ik9BycPuHs",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/h8UCEQAAQBAJ",
+      "id": "dHroEAAAQBAJ",
+      "etag": "5Mk+P2gmx4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
-        "title": "Immortal",
+        "title": "Private Rites",
+        "subtitle": "A Novel",
         "authors": [
-          "Sue Lynn Tan"
+          "Julia Armfield"
         ],
-        "publisher": "HarperCollins",
-        "publishedDate": "2025-01-07",
-        "description": "A stunning, standalone romantic fantasy filled with dangerous secrets, forbidden magic, and passion, of a young ruler who fights to protect her kingdom, from bestselling author Sue Lynn Tan and set in the breathtaking world of Daughter of the Moon Goddess. What the gods did not give us, I would take As the heir to Tianxia, Liyen knows she must ascend the throne and renew her kingdom’s pledge to serve the immortals who once protected them from a vicious enemy. But when she is poisoned, Liyen’s grandfather steals an enchanted lotus to save her life. Enraged at his betrayal, the immortal queen commands the powerful God of War to attack Tianxia. Upon her grandfather’s death, Liyen ascends a precarious throne, vowing to end her kingdom’s obligation to the immortals. When she is summoned to the Immortal Realm, she seizes the opportunity to learn their secrets and to form a tenuous alliance to safeguard her people, all with the one she should fear and mistrust the most: the ruthless God of War. As they are drawn together, a treacherous attraction ignites between them—one she has to resist, to not endanger all she is fighting for. But with darker forces closing in around them, and her kingdom plunged into peril, Liyen must risk everything to save her people from an unspeakable fate, even if it means forging a dangerous bond with the immortal… even if it means losing her heart.",
+        "publishedDate": "2024-12-03",
+        "description": "From the award-winning author of Our Wives Under the Sea, a speculative reimagining of King Lear, centering three sisters navigating queer love and loss in a drowning world It’s been raining for a long time now, so long that the land has reshaped itself and arcane rituals and religions are creeping back into practice. Sisters Isla, Irene, and Agnes have not spoken in some time when their father dies. An architect as cruel as he was revered, his death offers an opportunity for the sisters to come together in a new way. In the grand glass house they grew up in, their father’s most famous creation, the sisters sort through the secrets and memories he left behind, until their fragile bond is shattered by a revelation in his will. More estranged than ever, the sisters’ lives spin out of control: Irene’s relationship is straining at the seams; Isla’s ex-wife keeps calling; and cynical Agnes is falling in love for the first time. But something even more sinister might be unfolding, something related to their mother’s long-ago disappearance and the strangers who have always seemed unusually interested in the sisters’ lives. Soon, it becomes clear that the sisters have been chosen for a very particular purpose, one with shattering implications for their family and their imperiled world.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780063267633"
+            "identifier": "9781250344311"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0063267632"
+            "identifier": "125034431X"
           }
         ],
         "readingModes": {
@@ -34,7 +34,7 @@
         "categories": [
           "Fiction"
         ],
-        "maturityRating": "NOT_MATURE",
+        "maturityRating": "MATURE",
         "allowAnonLogging": false,
         "contentVersion": "preview-1.0.0",
         "panelizationSummary": {
@@ -42,13 +42,13 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=h8UCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=h8UCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=dHroEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dHroEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=h8UCEQAAQBAJ&dq=subject:fiction&hl=&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=h8UCEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Immortal.html?hl=&id=h8UCEQAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=dHroEAAAQBAJ&dq=subject:fiction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dHroEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Private_Rites.html?hl=&id=dHroEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -67,7 +67,7 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=h8UCEQAAQBAJ&hl=&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=dHroEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       }
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "0KmqrYXkheM",
+      "etag": "NMXnzpvFBtM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -147,7 +147,7 @@
     {
       "kind": "books#volume",
       "id": "lJLtEAAAQBAJ",
-      "etag": "ZlO9zDt9pHI",
+      "etag": "BKIAmhXtWqI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
       "volumeInfo": {
         "title": "The Book of Elsewhere",
@@ -219,7 +219,7 @@
     {
       "kind": "books#volume",
       "id": "h57eEAAAQBAJ",
-      "etag": "jBTpwntesqY",
+      "etag": "hAbCBK7MyS8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
       "volumeInfo": {
         "title": "Primal Mirror",
@@ -313,7 +313,7 @@
     {
       "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "0usA8jBjjtU",
+      "etag": "C47Cp8NCW3Q",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -383,8 +383,79 @@
     },
     {
       "kind": "books#volume",
+      "id": "VT7hEAAAQBAJ",
+      "etag": "lVigA+bm4Eg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lost Story",
+        "subtitle": "A Novel",
+        "authors": [
+          "Meg Shaffer"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2024-07-16",
+        "description": "NATIONAL BESTSELLER • Inspired by C. S. Lewis’s The Chronicles of Narnia, this wild and wondrous novel is a fairy tale for grown-ups who still knock on the back of wardrobes—just in case—from the author of The Wishing Game. “This is the book you’ve been waiting for.”—Richard Russo, Pulitzer Prize–winning author of Empire Falls and the North Bath Trilogy As boys, best friends Jeremy Cox and Rafe Howell went missing in a vast West Virginia state forest, only to mysteriously reappear six months later with no explanation for where they’d gone or how they’d survived. Fifteen years after their miraculous homecoming, Rafe is a reclusive artist who still bears scars inside and out but has no memory of what happened during those months. Meanwhile, Jeremy has become a famed missing persons’ investigator. With his uncanny abilities, he is the one person who can help vet tech Emilie Wendell find her sister, who vanished in the very same forest as Rafe and Jeremy. Jeremy alone knows the fantastical truth about the disappearances, for while the rest of the world was searching for them, the two missing boys were in a magical realm filled with impossible beauty and terrible danger. He believes it is there that they will find Emilie’s sister. However, Jeremy has kept Rafe in the dark since their return for his own inscrutable reasons. But the time for burying secrets comes to an end as the quest for Emilie’s sister begins. The former lost boys must confront their shared past, no matter how traumatic the memories. Alongside the headstrong Emilie, Rafe and Jeremy must return to the enchanted world they called home for six months—for only then can they get back everything and everyone they’ve lost.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593598870"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593598873"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Story.html?hl=&id=VT7hEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VT7hEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "OhkyK3LLAAA",
+      "etag": "wuKCrNl7RaA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -425,7 +496,7 @@
           "thumbnail": "http://books.google.com/books/content?id=cT4NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "es",
-        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ"
       },
@@ -456,7 +527,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "Q3+Ud7UC2mM",
+      "etag": "GvWwxjPv5Vg",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -498,7 +569,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yXnTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
@@ -551,7 +622,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "vsdjzphpcLQ",
+      "etag": "MkbgKvtwjEA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -593,7 +664,7 @@
           "thumbnail": "http://books.google.com/books/content?id=GoP7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
@@ -646,7 +717,7 @@
     {
       "kind": "books#volume",
       "id": "K2PhEAAAQBAJ",
-      "etag": "+jBr4SeBBZU",
+      "etag": "LUCvRo+s3JM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Summer of Yes",
@@ -687,7 +758,7 @@
           "thumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ"
       },
@@ -733,101 +804,6 @@
           "isAvailable": false
         },
         "webReaderLink": "http://play.google.com/books/reader?id=K2PhEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "ZRrdEAAAQBAJ",
-      "etag": "H4dBLb8FPIU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRrdEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Same Bright Stars",
-        "subtitle": "A Novel",
-        "authors": [
-          "Ethan Joella"
-        ],
-        "publisher": "Simon and Schuster",
-        "publishedDate": "2024-07-02",
-        "description": "From the author of the Read with Jenna Bonus Pick A Little Hope, an uplifting and emotionally resonant novel set in a Delaware beach town about a local restaurant owner at a turning point. Three generations of Schmidts have run their family’s beachfront restaurant and Jack has been at the helm since the death of his father. Jack puts the demands of the restaurant above all else, with a string of failed relationships, no hobbies, and no days off as proof of his commitment to the place. He can’t remember the last time he sat on the beach, or even enjoyed a moment to himself. Meanwhile, the DelDine group has been gradually snapping up beloved eateries along this stretch of coast and are pursuing Jack with a very generous offer to take Schmidt’s off his hands. Jack craves companionship and maybe even a family. He wonders if closing the door on the restaurant might open a new window for him. But who would he be without Schmidt’s, and can he trust DelDine’s claims that they will continue to employ his staff and honor his family’s legacy? When he receives startling news from the past, Jack begins to reshape his life and forge unexpected new friendships. But will he really let go of the very things that have defined him?",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781668024614"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1668024616"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 304,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.2.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ZRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ZRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=ZRrdEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 13.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 13.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&rdid=book-ZRrdEAAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 13990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 13990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Same_Bright_Stars-sample-epub.acsm?id=ZRrdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ZRrdEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       }
