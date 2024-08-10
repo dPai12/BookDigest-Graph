@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "h8UCEQAAQBAJ",
-      "etag": "4vSKkI40vhw",
+      "etag": "S3UFYBhMFT8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h8UCEQAAQBAJ",
       "volumeInfo": {
         "title": "Immortal",
@@ -14,7 +14,7 @@
         ],
         "publisher": "HarperCollins",
         "publishedDate": "2025-01-07",
-        "description": "A stunning, standalone romantic fantasy filled with dangerous secrets, forbidden magic, and passion, of a young ruler who fights to protect her kingdom, from bestselling author Sue Lynn Tan and set in the breathtaking world of Daughter of the Moon Goddess. What the gods did not give us, I would take As the heir to Tianxia, Liyen knows she must ascend the throne and renew her kingdom\u2019s pledge to serve the immortals who once protected them from a vicious enemy. But when she is poisoned, Liyen\u2019s grandfather steals an enchanted lotus to save her life. Enraged at his betrayal, the immortal queen commands the powerful God of War to attack Tianxia. Upon her grandfather\u2019s death, Liyen ascends a precarious throne, vowing to end her kingdom\u2019s obligation to the immortals. When she is summoned to the Immortal Realm, she seizes the opportunity to learn their secrets and to form a tenuous alliance to safeguard her people, all with the one she should fear and mistrust the most: the ruthless God of War. As they are drawn together, a treacherous attraction ignites between them\u2014one she has to resist, to not endanger all she is fighting for. But with darker forces closing in around them, and her kingdom plunged into peril, Liyen must risk everything to save her people from an unspeakable fate, even if it means forging a dangerous bond with the immortal\u2026 even if it means losing her heart.",
+        "description": "A stunning, standalone romantic fantasy filled with dangerous secrets, forbidden magic, and passion, of a young ruler who fights to protect her kingdom, from bestselling author Sue Lynn Tan and set in the breathtaking world of Daughter of the Moon Goddess. What the gods did not give us, I would take As the heir to Tianxia, Liyen knows she must ascend the throne and renew her kingdom’s pledge to serve the immortals who once protected them from a vicious enemy. But when she is poisoned, Liyen’s grandfather steals an enchanted lotus to save her life. Enraged at his betrayal, the immortal queen commands the powerful God of War to attack Tianxia. Upon her grandfather’s death, Liyen ascends a precarious throne, vowing to end her kingdom’s obligation to the immortals. When she is summoned to the Immortal Realm, she seizes the opportunity to learn their secrets and to form a tenuous alliance to safeguard her people, all with the one she should fear and mistrust the most: the ruthless God of War. As they are drawn together, a treacherous attraction ignites between them—one she has to resist, to not endanger all she is fighting for. But with darker forces closing in around them, and her kingdom plunged into peril, Liyen must risk everything to save her people from an unspeakable fate, even if it means forging a dangerous bond with the immortal… even if it means losing her heart.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -48,8 +48,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=h8UCEQAAQBAJ&dq=subject:fiction&hl=&cd=1&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=h8UCEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Immortal.html?hl=&id=h8UCEQAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://books.google.com/books/about/Immortal.html?hl=&id=h8UCEQAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -76,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "s1taKpPG7JI",
+      "etag": "JIzla1n2O4o",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -85,7 +84,7 @@
         ],
         "publisher": "C.J. Archer",
         "publishedDate": "2024-09-03",
-        "description": "An invisible message from a dead man resurrects a decades-old mystery. With her sharpened magical senses, Sylvia recognizes invisible writing while cataloging an obscure book for the library. She\u2019s shocked to discover the message, written many years earlier, pleaded for help. She\u2019s even more shocked to discover the author of the message was married to a paper magician. Could there be a connection to Sylvia\u2019s father? With a magical mystery on her hands, Sylvia engages the help of Gabe Glass, and together they follow the clues to the location of two hidden ledgers that implicate a very dangerous individual in an illegal bookmaking scheme. Although not named, Gabe is convinced he knows who the bookmaker is, and sets out to prove it. The investigation draws them into the shady underbelly of the horseracing industry and uncovers a link to Gabe\u2019s parents that takes everyone by surprise. As they unravel the mystery\u2019s tangled threads, unexpected twists and turns lead them to the truth. But the greatest twist of all is the danger no one saw coming.",
+        "description": "An invisible message from a dead man resurrects a decades-old mystery. With her sharpened magical senses, Sylvia recognizes invisible writing while cataloging an obscure book for the library. She’s shocked to discover the message, written many years earlier, pleaded for help. She’s even more shocked to discover the author of the message was married to a paper magician. Could there be a connection to Sylvia’s father? With a magical mystery on her hands, Sylvia engages the help of Gabe Glass, and together they follow the clues to the location of two hidden ledgers that implicate a very dangerous individual in an illegal bookmaking scheme. Although not named, Gabe is convinced he knows who the bookmaker is, and sets out to prove it. The investigation draws them into the shady underbelly of the horseracing industry and uncovers a link to Gabe’s parents that takes everyone by surprise. As they unravel the mystery’s tangled threads, unexpected twists and turns lead them to the truth. But the greatest twist of all is the danger no one saw coming.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -119,8 +118,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=wtXtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=2&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=wtXtEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Secrets_of_the_Lost_Ledgers.html?hl=&id=wtXtEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://books.google.com/books/about/Secrets_of_the_Lost_Ledgers.html?hl=&id=wtXtEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -149,18 +147,18 @@
     {
       "kind": "books#volume",
       "id": "lJLtEAAAQBAJ",
-      "etag": "TpYCRTustSs",
+      "etag": "OT31YbsIWU4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
       "volumeInfo": {
         "title": "The Book of Elsewhere",
         "subtitle": "A Novel",
         "authors": [
           "Keanu Reeves",
-          "China Mi\u00e9ville"
+          "China Miéville"
         ],
         "publisher": "Random House Canada",
         "publishedDate": "2024-07-23",
-        "description": "A mind-blowing epic from Keanu Reeves and China Mi\u00e9ville, unlike anything these two genre-bending pioneers have created before, inspired by the world of the BRZRKR comic books She said, We needed a tool. So I asked the gods. There have always been whispers. Legends. The warrior who cannot be killed. Who\u2019s seen a thousand civilizations rise and fall. He has had many names: Unute, Child of Lightning, Death himself. These days, he\u2019s known simply as \u201cB.\u201d And he wants to be able to die. In the present day, a U.S. black-ops group has promised him they can help with that. And all he needs to do is help them in return. But when an all-too-mortal soldier comes back to life, the impossible event ultimately points toward a force even more mysterious than B himself. One at least as strong. And one with a plan all its own. In a collaboration that combines Mi\u00e9ville\u2019s singular style and creativity with Reeves\u2019s haunting and soul-stirring narrative, these two inimitable artists have created something utterly unique, sure to delight existing fans and to create scores of new ones.",
+        "description": "A mind-blowing epic from Keanu Reeves and China Miéville, unlike anything these two genre-bending pioneers have created before, inspired by the world of the BRZRKR comic books She said, We needed a tool. So I asked the gods. There have always been whispers. Legends. The warrior who cannot be killed. Who’s seen a thousand civilizations rise and fall. He has had many names: Unute, Child of Lightning, Death himself. These days, he’s known simply as “B.” And he wants to be able to die. In the present day, a U.S. black-ops group has promised him they can help with that. And all he needs to do is help them in return. But when an all-too-mortal soldier comes back to life, the impossible event ultimately points toward a force even more mysterious than B himself. One at least as strong. And one with a plan all its own. In a collaboration that combines Miéville’s singular style and creativity with Reeves’s haunting and soul-stirring narrative, these two inimitable artists have created something utterly unique, sure to delight existing fans and to create scores of new ones.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -194,8 +192,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Elsewhere.html?hl=&id=lJLtEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Elsewhere.html?hl=&id=lJLtEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -222,7 +219,7 @@
     {
       "kind": "books#volume",
       "id": "h57eEAAAQBAJ",
-      "etag": "sE3QCUBCgsw",
+      "etag": "mGG6qb08prI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
       "volumeInfo": {
         "title": "Primal Mirror",
@@ -231,7 +228,7 @@
         ],
         "publisher": "Penguin",
         "publishedDate": "2024-07-23",
-        "description": "New York Times bestselling author Nalini Singh takes us into a family dark with shadowy secrets, as the world of the Psy teeters on the edge of a final catastrophic collapse. . . . Daughter of two ruthless high-Gradient telepaths, Auden Scott is not the child her Psy parents wanted or expected, even before her brain injury. Her thoughts are scattered, her memories fuzzy\u2014or just terrifyingly blank. The only thing she knows for certain is that she must protect her unborn baby . . . a baby she has no recollection of conceiving and who draws an unnerving depth of interest from her dead mother\u2019s closest associates. Leopard alpha Remi Denier is a man driven by the primal instinct to protect. Protect his pack, protect his allies . . . and protect the mysterious woman who has become a most unlikely neighbor. With eerie eyes that see too much and a scent that alters in ways disturbing and impossible, Auden Scott is the enemy . . . but nothing about this strange Psy is what it seems, and Remi\u2019s feline heart is as fascinated by her as his human half. Then Auden asks Remi to help her shatter the wall of secrets that is the Scott bloodline. What they unearth will reveal a nightmare beyond imagination. This time, the battle is to the death. . . .",
+        "description": "New York Times bestselling author Nalini Singh takes us into a family dark with shadowy secrets, as the world of the Psy teeters on the edge of a final catastrophic collapse. . . . Daughter of two ruthless high-Gradient telepaths, Auden Scott is not the child her Psy parents wanted or expected, even before her brain injury. Her thoughts are scattered, her memories fuzzy—or just terrifyingly blank. The only thing she knows for certain is that she must protect her unborn baby . . . a baby she has no recollection of conceiving and who draws an unnerving depth of interest from her dead mother’s closest associates. Leopard alpha Remi Denier is a man driven by the primal instinct to protect. Protect his pack, protect his allies . . . and protect the mysterious woman who has become a most unlikely neighbor. With eerie eyes that see too much and a scent that alters in ways disturbing and impossible, Auden Scott is the enemy . . . but nothing about this strange Psy is what it seems, and Remi’s feline heart is as fascinated by her as his human half. Then Auden asks Remi to help her shatter the wall of secrets that is the Scott bloodline. What they unearth will reveal a nightmare beyond imagination. This time, the battle is to the death. . . .",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -265,8 +262,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -317,7 +313,7 @@
     {
       "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "yV8aXI2CtRo",
+      "etag": "blxMLmbgoD0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -327,7 +323,7 @@
         ],
         "publisher": "Penguin",
         "publishedDate": "2024-07-16",
-        "description": "A BEST SUMMER READ: The New York Times, Los Angeles Times, Vulture, Boston Globe, Elle, Town & Country, Seattle Times, New York Post, Lit Hub, Cosmopolitan, Minneapolis Star Tribune, Paste, BiblioLifestyle, E! Online, AARP, BookBub, BookRiot \u201cFor anyone who\u2019s ever craved a seat at the Round Table. Utterly enchanting.\u201d \u2014Rebecca Yarros, #1 New York Times bestselling author of Fourth Wing and Iron Flame \u201cIf you love King Arthur as much as I do, you\u2019ll love Lev Grossman\u2019s The Bright Sword, a fresh and engrossing take on the Matter of Britain featuring a colorful cast of Round Table knights who don\u2019t often get as much story time as they deserve. The creator of The Magicians has woven another spell.\u201d \u2014George R. R. Martin, #1 New York Times bestselling author of A Game of Thrones The #1 New York Times bestselling author of the Magicians trilogy returns with a triumphant reimagining of the King Arthur legend for the new millennium A gifted young knight named Collum arrives at Camelot to compete for a spot on the Round Table, only to find that he\u2019s too late. The king died two weeks ago at the Battle of Camlann, leaving no heir, and only a handful of the knights of the Round Table survive. They aren\u2019t the heroes of legend, like Lancelot or Gawain. They\u2019re the oddballs of the Round Table, from the edges of the stories, like Sir Palomides, the Saracen Knight, and Sir Dagonet, Arthur\u2019s fool, who was knighted as a joke. They\u2019re joined by Nimue, who was Merlin\u2019s apprentice until she turned on him and buried him under a hill. Together this ragtag fellowship will set out to rebuild Camelot in a world that has lost its balance. But Arthur\u2019s death has revealed Britain\u2019s fault lines. God has abandoned it, and the fairies and monsters and old gods are returning, led by Arthur\u2019s half-sister Morgan le Fay. Kingdoms are turning on each other, warlords lay siege to Camelot and rival factions are forming around the disgraced Lancelot and the fallen Queen Guinevere. It is up to Collum and his companions to reclaim Excalibur, solve the mysteries of this ruined world and make it whole again. But before they can restore Camelot they\u2019ll have to learn the truth of why the lonely, brilliant King Arthur fell, and lay to rest the ghosts of his troubled family and of Britain\u2019s dark past. The first major Arthurian epic of the new millennium, The Bright Sword is steeped in tradition, full of duels and quests, battles and tournaments, magic swords and Fisher Kings. It also sheds a fresh light on Arthur\u2019s Britain, a diverse, complex nation struggling to come to terms with its bloody history. The Bright Sword is a story about imperfect men and women, full of strength and pain, who are looking for a way to reforge a broken land in spite of being broken themselves.",
+        "description": "A BEST SUMMER READ: The New York Times, Los Angeles Times, Vulture, Boston Globe, Elle, Town & Country, Seattle Times, New York Post, Lit Hub, Cosmopolitan, Minneapolis Star Tribune, Paste, BiblioLifestyle, E! Online, AARP, BookBub, BookRiot “For anyone who’s ever craved a seat at the Round Table. Utterly enchanting.” —Rebecca Yarros, #1 New York Times bestselling author of Fourth Wing and Iron Flame “If you love King Arthur as much as I do, you’ll love Lev Grossman’s The Bright Sword, a fresh and engrossing take on the Matter of Britain featuring a colorful cast of Round Table knights who don’t often get as much story time as they deserve. The creator of The Magicians has woven another spell.” —George R. R. Martin, #1 New York Times bestselling author of A Game of Thrones The #1 New York Times bestselling author of the Magicians trilogy returns with a triumphant reimagining of the King Arthur legend for the new millennium A gifted young knight named Collum arrives at Camelot to compete for a spot on the Round Table, only to find that he’s too late. The king died two weeks ago at the Battle of Camlann, leaving no heir, and only a handful of the knights of the Round Table survive. They aren’t the heroes of legend, like Lancelot or Gawain. They’re the oddballs of the Round Table, from the edges of the stories, like Sir Palomides, the Saracen Knight, and Sir Dagonet, Arthur’s fool, who was knighted as a joke. They’re joined by Nimue, who was Merlin’s apprentice until she turned on him and buried him under a hill. Together this ragtag fellowship will set out to rebuild Camelot in a world that has lost its balance. But Arthur’s death has revealed Britain’s fault lines. God has abandoned it, and the fairies and monsters and old gods are returning, led by Arthur’s half-sister Morgan le Fay. Kingdoms are turning on each other, warlords lay siege to Camelot and rival factions are forming around the disgraced Lancelot and the fallen Queen Guinevere. It is up to Collum and his companions to reclaim Excalibur, solve the mysteries of this ruined world and make it whole again. But before they can restore Camelot they’ll have to learn the truth of why the lonely, brilliant King Arthur fell, and lay to rest the ghosts of his troubled family and of Britain’s dark past. The first major Arthurian epic of the new millennium, The Bright Sword is steeped in tradition, full of duels and quests, battles and tournaments, magic swords and Fisher Kings. It also sheds a fresh light on Arthur’s Britain, a diverse, complex nation struggling to come to terms with its bloody history. The Bright Sword is a story about imperfect men and women, full of strength and pain, who are looking for a way to reforge a broken land in spite of being broken themselves.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -361,8 +357,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -389,7 +384,7 @@
     {
       "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "EZe+WPqkDzE",
+      "etag": "S0uuZJTYp3A",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -398,7 +393,7 @@
         ],
         "publisher": "SUMA",
         "publishedDate": "2024-07-11",
-        "description": "Vuelve la asistenta que ha revolucionado el thriller. Una nueva y adictiva novela de la serie m\u00e1s viral del momento. Yo sol\u00eda trabajar limpiando las casas de otras personas, ahora apenas puedo creerme que este sea mi hogar. La encantadora cocina, la calle tranquila, el enorme jard\u00edn en el que los ni\u00f1os pueden jugar. Mi marido y yo hemos ahorrado durante a\u00f1os para que mis hijos tengan la vida que se merecen. Aunque siento algo de recelo hacia nuestra vecina, la se\u00f1ora Lowell, veo su invitaci\u00f3n a cenar como una oportunidad para hacer amigos. Cuando su doncella abre la puerta con un delantal blanco y el pelo recogido en un mo\u00f1o tirante, s\u00e9 exactamente c\u00f3mo se siente. Pero su g\u00e9lida mirada me produce escalofr\u00edos... La doncella de los Lowell no es lo \u00fanico extra\u00f1o de nuestra calle. Estoy convencida de que alguien nos observa. Y cuando conozco a la mujer que vive enfrente, sus palabras me dejan petrificada: \u00abTen cuidado con tus vecinos\u00bb. \u00bfComet\u00ed un terrible error mud\u00e1ndome aqu\u00ed con mi familia? Pensaba que hab\u00eda dejado atr\u00e1s mis secretos oscuros. Pero \u00bfpodr\u00eda ser este apacible barrio residencial el sitio m\u00e1s peligroso de todos?",
+        "description": "Vuelve la asistenta que ha revolucionado el thriller. Una nueva y adictiva novela de la serie más viral del momento. Yo solía trabajar limpiando las casas de otras personas, ahora apenas puedo creerme que este sea mi hogar. La encantadora cocina, la calle tranquila, el enorme jardín en el que los niños pueden jugar. Mi marido y yo hemos ahorrado durante años para que mis hijos tengan la vida que se merecen. Aunque siento algo de recelo hacia nuestra vecina, la señora Lowell, veo su invitación a cenar como una oportunidad para hacer amigos. Cuando su doncella abre la puerta con un delantal blanco y el pelo recogido en un moño tirante, sé exactamente cómo se siente. Pero su gélida mirada me produce escalofríos... La doncella de los Lowell no es lo único extraño de nuestra calle. Estoy convencida de que alguien nos observa. Y cuando conozco a la mujer que vive enfrente, sus palabras me dejan petrificada: «Ten cuidado con tus vecinos». ¿Cometí un terrible error mudándome aquí con mi familia? Pensaba que había dejado atrás mis secretos oscuros. Pero ¿podría ser este apacible barrio residencial el sitio más peligroso de todos?",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -432,8 +427,7 @@
         "language": "es",
         "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -462,7 +456,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "oB5NzACMJw4",
+      "etag": "Ilyg29E3MDY",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -472,7 +466,7 @@
         ],
         "publisher": "Minotaur Books",
         "publishedDate": "2024-07-09",
-        "description": "Chief of Police Kate Burkholder investigates a gruesome murder that reveals a little-known chapter of early Amish history in this next riveting installment of the bestselling series by Linda Castillo. Newlywed Chief of Police Kate Burkholder is awakened by an urgent midnight call summoning her to a suspicious fire in the woods. When she arrives at the scene, she discovers a charred body. According to the coroner, the deceased, an Amish man named Milan Swanz, was chained to a stake and burned alive. It is an appalling and eerily symbolic crime against an upstanding husband and father. Kate knows all too well that the Amish prefer to handle their problems without interference from the outside world, and no one will speak about the murdered man. From what she\u2019s able to piece together, Swanz led a deeply troubled life and had recently been excommunicated. But if that\u2019s the case, why are the Amish so reluctant to talk about him? Are they protecting the memory of one of their own? Or are they afraid of something they dare not share? When her own brother is implicated in the case, Kate finds herself not only at odds with the Amish, the world of which she was once a part, but also the English community and her counterparts in law enforcement. The investigation takes a violent turn when Kate\u2019s life is threatened by a mysterious stranger. To uncover the truth about the death of Milan Swanz, Kate must dive deep into the Anabaptist culture, peering into all the dark corners of its history, only to uncover a secret legacy that shatters everything she thought she knew about the Amish themselves\u2014and her own roots.",
+        "description": "Chief of Police Kate Burkholder investigates a gruesome murder that reveals a little-known chapter of early Amish history in this next riveting installment of the bestselling series by Linda Castillo. Newlywed Chief of Police Kate Burkholder is awakened by an urgent midnight call summoning her to a suspicious fire in the woods. When she arrives at the scene, she discovers a charred body. According to the coroner, the deceased, an Amish man named Milan Swanz, was chained to a stake and burned alive. It is an appalling and eerily symbolic crime against an upstanding husband and father. Kate knows all too well that the Amish prefer to handle their problems without interference from the outside world, and no one will speak about the murdered man. From what she’s able to piece together, Swanz led a deeply troubled life and had recently been excommunicated. But if that’s the case, why are the Amish so reluctant to talk about him? Are they protecting the memory of one of their own? Or are they afraid of something they dare not share? When her own brother is implicated in the case, Kate finds herself not only at odds with the Amish, the world of which she was once a part, but also the English community and her counterparts in law enforcement. The investigation takes a violent turn when Kate’s life is threatened by a mysterious stranger. To uncover the truth about the death of Milan Swanz, Kate must dive deep into the Anabaptist culture, peering into all the dark corners of its history, only to uncover a secret legacy that shatters everything she thought she knew about the Amish themselves—and her own roots.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -506,8 +500,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -558,7 +551,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "0tKI926Ot5E",
+      "etag": "ocjA2WP9FsQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -568,7 +561,7 @@
         ],
         "publisher": "Random House",
         "publishedDate": "2024-07-09",
-        "description": "An exhilarating novel about one American family, the dark moment that shatters their suburban paradise, and the wild legacy of trauma and inheritance, from the New York Times bestselling author of Fleishman Is in Trouble \u201cA big, juicy, wickedly funny social satire . . . probably the funniest book ever about generational family trauma.\u201d\u2014Oprah Daily \u201cWere we gangsters? No. But did we know how to start a fire?\u201d In 1980, a wealthy businessman named Carl Fletcher is kidnapped from his driveway, brutalized, and held for ransom. He is returned to his wife and kids less than a week later, only slightly the worse, and the family moves on with their lives, resuming their prized places in the saga of the American dream, comforted in the realization that though their money may have been what endangered them, it is also what assured them their safety. But now, nearly forty years later, it\u2019s clear that perhaps nobody ever got over anything, after all. Carl has spent the ensuing years secretly seeking closure to the matter of his kidnapping, while his wife, Ruth, has spent her potential protecting her husband\u2019s emotional health. Their three grown children aren\u2019t doing much better: Nathan\u2019s chronic fear won\u2019t allow him to advance at his law firm; Beamer, a Hollywood screenwriter, will consume anything\u2014substance, foodstuff, women\u2014in order to numb his own perpetual terror; and Jenny has spent her life so bent on proving that she\u2019s not a product of her family\u2019s pathology that she has come to define it. As they hover at the delicate precipice of a different kind of survival, they learn that the family fortune has dwindled to just about nothing, and they must face desperate questions about how much their wealth has played a part in both their lives\u2019 successes and failures. Long Island Compromise spans the entirety of one family\u2019s history, winding through decades and generations, all the way to the outrageous present, and confronting the mainstays of American Jewish life: tradition, the pursuit of success, the terror of history, fear of the future, old wives\u2019 tales, evil eyes, ambition, achievement, boredom, dybbuks, inheritance, pyramid schemes, right-wing capitalists, beta-blockers, psychics, and the mostly unspoken love and shared experience that unite a family forever.",
+        "description": "An exhilarating novel about one American family, the dark moment that shatters their suburban paradise, and the wild legacy of trauma and inheritance, from the New York Times bestselling author of Fleishman Is in Trouble “A big, juicy, wickedly funny social satire . . . probably the funniest book ever about generational family trauma.”—Oprah Daily “Were we gangsters? No. But did we know how to start a fire?” In 1980, a wealthy businessman named Carl Fletcher is kidnapped from his driveway, brutalized, and held for ransom. He is returned to his wife and kids less than a week later, only slightly the worse, and the family moves on with their lives, resuming their prized places in the saga of the American dream, comforted in the realization that though their money may have been what endangered them, it is also what assured them their safety. But now, nearly forty years later, it’s clear that perhaps nobody ever got over anything, after all. Carl has spent the ensuing years secretly seeking closure to the matter of his kidnapping, while his wife, Ruth, has spent her potential protecting her husband’s emotional health. Their three grown children aren’t doing much better: Nathan’s chronic fear won’t allow him to advance at his law firm; Beamer, a Hollywood screenwriter, will consume anything—substance, foodstuff, women—in order to numb his own perpetual terror; and Jenny has spent her life so bent on proving that she’s not a product of her family’s pathology that she has come to define it. As they hover at the delicate precipice of a different kind of survival, they learn that the family fortune has dwindled to just about nothing, and they must face desperate questions about how much their wealth has played a part in both their lives’ successes and failures. Long Island Compromise spans the entirety of one family’s history, winding through decades and generations, all the way to the outrageous present, and confronting the mainstays of American Jewish life: tradition, the pursuit of success, the terror of history, fear of the future, old wives’ tales, evil eyes, ambition, achievement, boredom, dybbuks, inheritance, pyramid schemes, right-wing capitalists, beta-blockers, psychics, and the mostly unspoken love and shared experience that unite a family forever.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -602,8 +595,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -654,7 +646,7 @@
     {
       "kind": "books#volume",
       "id": "K2PhEAAAQBAJ",
-      "etag": "dNszdGf+RdA",
+      "etag": "8U2k+OqL0gQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Summer of Yes",
@@ -663,7 +655,7 @@
         ],
         "publisher": "Thomas Nelson",
         "publishedDate": "2024-07-02",
-        "description": "Sometimes you\u2019re so busy writing other people\u2019s stories that you lose the plot of your own. This wasn\u2019t how Kelsey Worthington\u2019s day was supposed to go. She wasn\u2019t supposed to be picking up Starbucks for her smarmy boss. She wasn\u2019t supposed to get hit by a car that jumped the curb. And she certainly wasn\u2019t supposed to wake up in a hospital room next to Georgina Tate\u2014the legendary matriarch of New York City businesswomen. Kelsey and Georgina couldn\u2019t be more opposite. Kelsey\u2019s a dreamer, a writer who questions her own skill. And Georgina is a confident businesswoman whose years of shouldering her way into boardrooms and making her voice heard have made her far too outspoken for the faint of heart. But now, when Georgina\u2019s failing kidneys force her to face some big regrets about the way she\u2019s lived her life, the two women recognize they share a common thread. Maybe it\u2019s time to confront a few things. They must ask themselves: What if I said yes to everything I\u2019ve always said no to? With Georgina as her companion, Kelsey soon finds herself doing things she\u2019s never done before. Eating street food. Swimming in the ocean. Matchmaking for Georgina with the help of Georgina\u2019s handsome son. And writing her own romance\u2014both in book form and in real life. So begins the Summer of Yes. Stand-alone novel Perfect for fans of Denise Hunter and Rachel Linden Book length: 100,000 words Includes discussion questions for book clubs",
+        "description": "Sometimes you’re so busy writing other people’s stories that you lose the plot of your own. This wasn’t how Kelsey Worthington’s day was supposed to go. She wasn’t supposed to be picking up Starbucks for her smarmy boss. She wasn’t supposed to get hit by a car that jumped the curb. And she certainly wasn’t supposed to wake up in a hospital room next to Georgina Tate—the legendary matriarch of New York City businesswomen. Kelsey and Georgina couldn’t be more opposite. Kelsey’s a dreamer, a writer who questions her own skill. And Georgina is a confident businesswoman whose years of shouldering her way into boardrooms and making her voice heard have made her far too outspoken for the faint of heart. But now, when Georgina’s failing kidneys force her to face some big regrets about the way she’s lived her life, the two women recognize they share a common thread. Maybe it’s time to confront a few things. They must ask themselves: What if I said yes to everything I’ve always said no to? With Georgina as her companion, Kelsey soon finds herself doing things she’s never done before. Eating street food. Swimming in the ocean. Matchmaking for Georgina with the help of Georgina’s handsome son. And writing her own romance—both in book form and in real life. So begins the Summer of Yes. Stand-alone novel Perfect for fans of Denise Hunter and Rachel Linden Book length: 100,000 words Includes discussion questions for book clubs",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -697,8 +689,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -749,7 +740,7 @@
     {
       "kind": "books#volume",
       "id": "ZRrdEAAAQBAJ",
-      "etag": "Gqzx39rJy/o",
+      "etag": "IRcHs3P7Nrc",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRrdEAAAQBAJ",
       "volumeInfo": {
         "title": "The Same Bright Stars",
@@ -759,7 +750,7 @@
         ],
         "publisher": "Simon and Schuster",
         "publishedDate": "2024-07-02",
-        "description": "From the author of the Read with Jenna Bonus Pick A Little Hope, an uplifting and emotionally resonant novel set in a Delaware beach town about a local restaurant owner at a turning point. Three generations of Schmidts have run their family\u2019s beachfront restaurant and Jack has been at the helm since the death of his father. Jack puts the demands of the restaurant above all else, with a string of failed relationships, no hobbies, and no days off as proof of his commitment to the place. He can\u2019t remember the last time he sat on the beach, or even enjoyed a moment to himself. Meanwhile, the DelDine group has been gradually snapping up beloved eateries along this stretch of coast and are pursuing Jack with a very generous offer to take Schmidt\u2019s off his hands. Jack craves companionship and maybe even a family. He wonders if closing the door on the restaurant might open a new window for him. But who would he be without Schmidt\u2019s, and can he trust DelDine\u2019s claims that they will continue to employ his staff and honor his family\u2019s legacy? When he receives startling news from the past, Jack begins to reshape his life and forge unexpected new friendships. But will he really let go of the very things that have defined him?",
+        "description": "From the author of the Read with Jenna Bonus Pick A Little Hope, an uplifting and emotionally resonant novel set in a Delaware beach town about a local restaurant owner at a turning point. Three generations of Schmidts have run their family’s beachfront restaurant and Jack has been at the helm since the death of his father. Jack puts the demands of the restaurant above all else, with a string of failed relationships, no hobbies, and no days off as proof of his commitment to the place. He can’t remember the last time he sat on the beach, or even enjoyed a moment to himself. Meanwhile, the DelDine group has been gradually snapping up beloved eateries along this stretch of coast and are pursuing Jack with a very generous offer to take Schmidt’s off his hands. Jack craves companionship and maybe even a family. He wonders if closing the door on the restaurant might open a new window for him. But who would he be without Schmidt’s, and can he trust DelDine’s claims that they will continue to employ his staff and honor his family’s legacy? When he receives startling news from the past, Jack begins to reshape his life and forge unexpected new friendships. But will he really let go of the very things that have defined him?",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
@@ -793,8 +784,7 @@
         "language": "en",
         "previewLink": "http://books.google.com/books?id=ZRrdEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ",
-        "genre": "Unknown"
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
