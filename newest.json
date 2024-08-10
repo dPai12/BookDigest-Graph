@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "dHroEAAAQBAJ",
-      "etag": "ZkHa3nCsf5g",
+      "etag": "P6hvRYUIbj8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
         "title": "Private Rites",
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "dt6hkX7Jj7Q",
+      "etag": "DUwZNwkxYwM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -146,8 +146,150 @@
     },
     {
       "kind": "books#volume",
+      "id": "CuoCEQAAQBAJ",
+      "etag": "Gp6OLUwnvD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CuoCEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Dungeon Crawler Carl",
+        "authors": [
+          "Matt Dinniman"
+        ],
+        "publisher": "Penguin Group",
+        "publishedDate": "2024-08-27",
+        "description": "The apocalypse will be televised! Welcome to the first book in the wildly popular and addictive Dungeon Crawler Carl series by Matt Dinniman—now with bonus material exclusive to this print edition. You know what’s worse than breaking up with your girlfriend? Being stuck with her prize-winning show cat. And you know what’s worse than that? An alien invasion, the destruction of all man-made structures on Earth, and the systematic exploitation of all the survivors for a sadistic intergalactic game show. That’s what. Join Coast Guard vet Carl and his ex-girlfriend’s cat, Princess Donut, as they try to survive the end of the world—or just get to the next level—in a video game–like, trap-filled fantasy dungeon. A dungeon that’s actually the set of a reality television show with countless viewers across the galaxy. Exploding goblins. Magical potions. Deadly, drug-dealing llamas. This ain’t your ordinary game show. Welcome, Crawler. Welcome to the Dungeon. Survival is optional. Keeping the viewers entertained is not. Includes part one of the exclusive bonus story “Backstage at the Pineapple Cabaret.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593820247"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "059382024X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CuoCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CuoCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CuoCEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CuoCEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dungeon_Crawler_Carl.html?hl=&id=CuoCEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Dungeon_Crawler_Carl-sample-pdf.acsm?id=CuoCEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CuoCEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9MbXEAAAQBAJ",
+      "etag": "21FJye8LKO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9MbXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Waiting for the Long Night Moon",
+        "subtitle": "Stories",
+        "authors": [
+          "Amanda Peters"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2024-08-13",
+        "description": "In her debut collection of short fiction, Amanda Peters describes the Indigenous experience from an astonishingly wide spectrum in time and place—from contact with the first European settlers, to the forced removal of Indigenous children, to the present-day fight for the right to clean water. These intimate stories meld traditional storytelling with beautiful, spare prose that portray the dignity of the traditional way of life, the humiliations of systemic racism, and the resilient power to endure. A young man returns from residential school only to realize he can no longer communicate with his own parents. A young woman finds purpose and healing on the front lines as a water protector. An old man remembers his life as he patiently waits for death. And a young girl nervously dances in her first Mawi’omi. The collection also includes the Indigenous Voices Award–nominated story “Pejipug (Winter Arrives)\" as well the Indigenous Voices Award-winning title story. At times sad, sometimes disturbing, but always redemptive, the stories in Waiting for the Long Night Moon will remind you that where there is grief there is also joy, where there is trauma there is resilience and, most importantly, there is power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443468237"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443468231"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9MbXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9MbXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9MbXEAAAQBAJ&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9MbXEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Waiting_for_the_Long_Night_Moon.html?hl=&id=9MbXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9MbXEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "/y8zX/wbxa8",
+      "etag": "cX2+zVivvM0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -189,7 +331,7 @@
           "thumbnail": "http://books.google.com/books/content?id=hcDhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ"
       },
@@ -218,7 +360,7 @@
     {
       "kind": "books#volume",
       "id": "VT7hEAAAQBAJ",
-      "etag": "ZtMh6k/daSs",
+      "etag": "qps35idA13I",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
       "volumeInfo": {
         "title": "The Lost Story",
@@ -260,7 +402,7 @@
           "thumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Story.html?hl=&id=VT7hEAAAQBAJ"
       },
@@ -289,7 +431,7 @@
     {
       "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "f2qP2PSfpOk",
+      "etag": "lfvG23C2QxA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -330,7 +472,7 @@
           "thumbnail": "http://books.google.com/books/content?id=cT4NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "es",
-        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ"
       },
@@ -361,7 +503,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "DJwS888kdcE",
+      "etag": "vkyyIAAIGMI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -403,7 +545,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yXnTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
@@ -456,7 +598,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "rDNHFQETeUk",
+      "etag": "RDuxA4aQ86Y",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -498,7 +640,7 @@
           "thumbnail": "http://books.google.com/books/content?id=GoP7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
@@ -551,7 +693,7 @@
     {
       "kind": "books#volume",
       "id": "YcvaEAAAQBAJ",
-      "etag": "y7k6Z6+i8vE",
+      "etag": "XzyQn/A9h30",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/YcvaEAAAQBAJ",
       "volumeInfo": {
         "title": "Big in Sweden",
@@ -593,7 +735,7 @@
           "thumbnail": "http://books.google.com/books/content?id=YcvaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=YcvaEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=YcvaEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ"
       },
@@ -639,194 +781,6 @@
           "isAvailable": false
         },
         "webReaderLink": "http://play.google.com/books/reader?id=YcvaEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "K2PhEAAAQBAJ",
-      "etag": "hzCKMrmz/pg",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Summer of Yes",
-        "authors": [
-          "Courtney Walsh"
-        ],
-        "publisher": "Thomas Nelson",
-        "publishedDate": "2024-07-02",
-        "description": "Sometimes you’re so busy writing other people’s stories that you lose the plot of your own. This wasn’t how Kelsey Worthington’s day was supposed to go. She wasn’t supposed to be picking up Starbucks for her smarmy boss. She wasn’t supposed to get hit by a car that jumped the curb. And she certainly wasn’t supposed to wake up in a hospital room next to Georgina Tate—the legendary matriarch of New York City businesswomen. Kelsey and Georgina couldn’t be more opposite. Kelsey’s a dreamer, a writer who questions her own skill. And Georgina is a confident businesswoman whose years of shouldering her way into boardrooms and making her voice heard have made her far too outspoken for the faint of heart. But now, when Georgina’s failing kidneys force her to face some big regrets about the way she’s lived her life, the two women recognize they share a common thread. Maybe it’s time to confront a few things. They must ask themselves: What if I said yes to everything I’ve always said no to? With Georgina as her companion, Kelsey soon finds herself doing things she’s never done before. Eating street food. Swimming in the ocean. Matchmaking for Georgina with the help of Georgina’s handsome son. And writing her own romance—both in book form and in real life. So begins the Summer of Yes. Stand-alone novel Perfect for fans of Denise Hunter and Rachel Linden Book length: 100,000 words Includes discussion questions for book clubs",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780840713728"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "084071372X"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 385,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.2.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 11.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 11.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&rdid=book-K2PhEAAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 11990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 11990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Summer_of_Yes-sample-epub.acsm?id=K2PhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=K2PhEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "TRrdEAAAQBAJ",
-      "etag": "StnA1SlRtMM",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/TRrdEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Lion Women of Tehran",
-        "authors": [
-          "Marjan Kamali"
-        ],
-        "publisher": "Simon and Schuster",
-        "publishedDate": "2024-07-02",
-        "description": "From the nationally bestselling author of the “powerful, heartbreaking” (Shelf Awareness) The Stationery Shop, a heartfelt, epic new novel of friendship, betrayal, and redemption set against three transformative decades in Tehran, Iran. In 1950s Tehran, seven-year-old Ellie lives in grand comfort until the untimely death of her father, forcing Ellie and her mother to move to a tiny home downtown. Lonely and bearing the brunt of her mother’s endless grievances, Ellie dreams of a friend to alleviate her isolation. Luckily, on the first day of school, she meets Homa, a kind, passionate girl with a brave and irrepressible spirit. Together, the two girls play games, learn to cook in the stone kitchen of Homa’s warm home, wander through the colorful stalls of the Grand Bazaar, and share their ambitions for becoming “lion women.” But their happiness is disrupted when Ellie and her mother are afforded the opportunity to return to their previous bourgeois life. Now a popular student at the best girls’ high school in Iran, Ellie’s memories of Homa begin to fade. Years later, however, her sudden reappearance in Ellie’s privileged world alters the course of both of their lives. Together, the two young women come of age and pursue their own goals for meaningful futures. But as the political turmoil in Iran builds to a breaking point, one earth-shattering betrayal will have enormous consequences. Written with Marjan Kamali’s signature “evocative, devastating, and hauntingly beautiful” (Whitney Scharer, author of The Age of Light) prose, The Lion Women of Tehran is a sweeping exploration of how profoundly we are shaped by those we meet when we are young, and the way love and courage transforms our lives.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781668036600"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1668036606"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 336,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.2.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=TRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=TRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=TRrdEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=TRrdEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TRrdEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 14.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 14.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=TRrdEAAAQBAJ&rdid=book-TRrdEAAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 14990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 14990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/The_Lion_Women_of_Tehran-sample-epub.acsm?id=TRrdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=TRrdEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       }
