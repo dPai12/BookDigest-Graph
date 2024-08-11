@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "dHroEAAAQBAJ",
-      "etag": "ApB3tYfCdCE",
+      "etag": "VemmbcNUu6w",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
         "title": "Private Rites",
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "LYAoDMBOiew",
+      "etag": "wP8R4TvVOMk",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -146,79 +146,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "HkLnEAAAQBAJ",
-      "etag": "imYStroSWe8",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/HkLnEAAAQBAJ",
-      "volumeInfo": {
-        "title": "You're the Problem, It's You",
-        "subtitle": "A Novel",
-        "authors": [
-          "Emma R. Alban"
-        ],
-        "publisher": "HarperCollins",
-        "publishedDate": "2024-08-27",
-        "description": "The enemies-to-lovers queer Victorian romance follow-up to Don’t Want You Like a Best Friend, in which a young lord and a second son clash, but find themselves thrust together again and again by their meddling cousins. “That man is, without a doubt, the absolute most obnoxious… Bobby Mason is sick of being second best: born the spare, never trusted with family responsibility, never expected to amount to much. He’s hungry to contribute something that matters, while all around him his peers are squandering their political and financial power, coasting through life. Which is exactly why he can’t stand the new Viscount Demeroven. …insufferable… James Demeroven, just come of age and into the Viscountcy, knows that he’s a disappointment. Keeping his head down and never raising anyone’s expectations is how he’s survived life with his stepfather. To quiet, careful James, Bobby Mason is a blazing comet in his endless night, even more alive than he was at Oxford when James crushed on him from afar. But Mason is also brash and recklessly unapologetic, destined to shatter the fragile safety of James’s world. Worst of all, he keeps rubbing James’s failures in his face. …hottest man to ever walk the ton.” They can barely get through a single conversation without tensions boiling over. Neither Bobby nor James has ever met a more intriguing, infuriating, infatuating man. If only they could avoid each other entirely. Bad enough their (wonderful but determined) cousins Beth and Gwen keep conveniently setting up group outings. But when an extortionist starts targeting their families, threatening their reputations, Bobby and James must find a way to work together, without pushing each other’s buttons (or tearing them off) in the process…",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780063312050"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0063312050"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 351,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.2.2.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=HkLnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=HkLnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=HkLnEAAAQBAJ&dq=subject:fiction&hl=&cd=3&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=HkLnEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/You_re_the_Problem_It_s_You.html?hl=&id=HkLnEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=HkLnEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "lJLtEAAAQBAJ",
-      "etag": "7gcLwD8s2Ok",
+      "etag": "GHlWh9yzGgo",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
       "volumeInfo": {
         "title": "The Book of Elsewhere",
@@ -261,7 +190,7 @@
           "thumbnail": "http://books.google.com/books/content?id=lJLtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Elsewhere.html?hl=&id=lJLtEAAAQBAJ"
       },
@@ -290,7 +219,7 @@
     {
       "kind": "books#volume",
       "id": "h57eEAAAQBAJ",
-      "etag": "3ZndUYYmlgs",
+      "etag": "ZizxniTimC0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
       "volumeInfo": {
         "title": "Primal Mirror",
@@ -331,7 +260,7 @@
           "thumbnail": "http://books.google.com/books/content?id=h57eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ"
       },
@@ -384,7 +313,7 @@
     {
       "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "5orzVBfWLVQ",
+      "etag": "eVBV2v9e1aE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -426,7 +355,7 @@
           "thumbnail": "http://books.google.com/books/content?id=hcDhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ"
       },
@@ -455,7 +384,7 @@
     {
       "kind": "books#volume",
       "id": "VT7hEAAAQBAJ",
-      "etag": "uZLo8Gj+neY",
+      "etag": "AgxEDPOOS5k",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
       "volumeInfo": {
         "title": "The Lost Story",
@@ -497,7 +426,7 @@
           "thumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Story.html?hl=&id=VT7hEAAAQBAJ"
       },
@@ -526,7 +455,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "UMX0zF2iM5I",
+      "etag": "Np5JU96Ql3s",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -568,7 +497,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yXnTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
@@ -621,7 +550,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "kwXjyBDnU68",
+      "etag": "QsyTGmsclqQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -663,7 +592,7 @@
           "thumbnail": "http://books.google.com/books/content?id=GoP7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
@@ -716,7 +645,7 @@
     {
       "kind": "books#volume",
       "id": "K2PhEAAAQBAJ",
-      "etag": "hdE5gaFc67I",
+      "etag": "hpkng9RoGAY",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Summer of Yes",
@@ -757,7 +686,7 @@
           "thumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ"
       },
@@ -803,6 +732,101 @@
           "isAvailable": false
         },
         "webReaderLink": "http://play.google.com/books/reader?id=K2PhEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZRrdEAAAQBAJ",
+      "etag": "1DG/tMiQ+mY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRrdEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Same Bright Stars",
+        "subtitle": "A Novel",
+        "authors": [
+          "Ethan Joella"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2024-07-02",
+        "description": "From the author of the Read with Jenna Bonus Pick A Little Hope, an uplifting and emotionally resonant novel set in a Delaware beach town about a local restaurant owner at a turning point. Three generations of Schmidts have run their family’s beachfront restaurant and Jack has been at the helm since the death of his father. Jack puts the demands of the restaurant above all else, with a string of failed relationships, no hobbies, and no days off as proof of his commitment to the place. He can’t remember the last time he sat on the beach, or even enjoyed a moment to himself. Meanwhile, the DelDine group has been gradually snapping up beloved eateries along this stretch of coast and are pursuing Jack with a very generous offer to take Schmidt’s off his hands. Jack craves companionship and maybe even a family. He wonders if closing the door on the restaurant might open a new window for him. But who would he be without Schmidt’s, and can he trust DelDine’s claims that they will continue to employ his staff and honor his family’s legacy? When he receives startling news from the past, Jack begins to reshape his life and forge unexpected new friendships. But will he really let go of the very things that have defined him?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668024614"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668024616"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZRrdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZRrdEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZRrdEAAAQBAJ&rdid=book-ZRrdEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Same_Bright_Stars-sample-epub.acsm?id=ZRrdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZRrdEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       }
