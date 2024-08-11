@@ -4,25 +4,25 @@
   "items": [
     {
       "kind": "books#volume",
-      "id": "h8UCEQAAQBAJ",
-      "etag": "cZkUOfTdxEM",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/h8UCEQAAQBAJ",
+      "id": "dHroEAAAQBAJ",
+      "etag": "xjl+7QMU9l4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
-        "title": "Immortal",
+        "title": "Private Rites",
+        "subtitle": "A Novel",
         "authors": [
-          "Sue Lynn Tan"
+          "Julia Armfield"
         ],
-        "publisher": "HarperCollins",
-        "publishedDate": "2025-01-07",
-        "description": "A stunning, standalone romantic fantasy filled with dangerous secrets, forbidden magic, and passion, of a young ruler who fights to protect her kingdom, from bestselling author Sue Lynn Tan and set in the breathtaking world of Daughter of the Moon Goddess. What the gods did not give us, I would take As the heir to Tianxia, Liyen knows she must ascend the throne and renew her kingdom’s pledge to serve the immortals who once protected them from a vicious enemy. But when she is poisoned, Liyen’s grandfather steals an enchanted lotus to save her life. Enraged at his betrayal, the immortal queen commands the powerful God of War to attack Tianxia. Upon her grandfather’s death, Liyen ascends a precarious throne, vowing to end her kingdom’s obligation to the immortals. When she is summoned to the Immortal Realm, she seizes the opportunity to learn their secrets and to form a tenuous alliance to safeguard her people, all with the one she should fear and mistrust the most: the ruthless God of War. As they are drawn together, a treacherous attraction ignites between them—one she has to resist, to not endanger all she is fighting for. But with darker forces closing in around them, and her kingdom plunged into peril, Liyen must risk everything to save her people from an unspeakable fate, even if it means forging a dangerous bond with the immortal… even if it means losing her heart.",
+        "publishedDate": "2024-12-03",
+        "description": "From the award-winning author of Our Wives Under the Sea, a speculative reimagining of King Lear, centering three sisters navigating queer love and loss in a drowning world It’s been raining for a long time now, so long that the land has reshaped itself and arcane rituals and religions are creeping back into practice. Sisters Isla, Irene, and Agnes have not spoken in some time when their father dies. An architect as cruel as he was revered, his death offers an opportunity for the sisters to come together in a new way. In the grand glass house they grew up in, their father’s most famous creation, the sisters sort through the secrets and memories he left behind, until their fragile bond is shattered by a revelation in his will. More estranged than ever, the sisters’ lives spin out of control: Irene’s relationship is straining at the seams; Isla’s ex-wife keeps calling; and cynical Agnes is falling in love for the first time. But something even more sinister might be unfolding, something related to their mother’s long-ago disappearance and the strangers who have always seemed unusually interested in the sisters’ lives. Soon, it becomes clear that the sisters have been chosen for a very particular purpose, one with shattering implications for their family and their imperiled world.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780063267633"
+            "identifier": "9781250344311"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0063267632"
+            "identifier": "125034431X"
           }
         ],
         "readingModes": {
@@ -34,7 +34,7 @@
         "categories": [
           "Fiction"
         ],
-        "maturityRating": "NOT_MATURE",
+        "maturityRating": "MATURE",
         "allowAnonLogging": false,
         "contentVersion": "preview-1.0.0",
         "panelizationSummary": {
@@ -42,13 +42,13 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=h8UCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=h8UCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=dHroEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dHroEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=h8UCEQAAQBAJ&dq=subject:fiction&hl=&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=h8UCEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Immortal.html?hl=&id=h8UCEQAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=dHroEAAAQBAJ&dq=subject:fiction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dHroEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Private_Rites.html?hl=&id=dHroEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -67,7 +67,7 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=h8UCEQAAQBAJ&hl=&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=dHroEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       }
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "Yo8XILudmrk",
+      "etag": "r0Tf57ikauQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -146,38 +146,38 @@
     },
     {
       "kind": "books#volume",
-      "id": "HkLnEAAAQBAJ",
-      "etag": "nrrJjUHBlHQ",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/HkLnEAAAQBAJ",
+      "id": "9MbXEAAAQBAJ",
+      "etag": "P72uIEpOqxY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9MbXEAAAQBAJ",
       "volumeInfo": {
-        "title": "You're the Problem, It's You",
-        "subtitle": "A Novel",
+        "title": "Waiting for the Long Night Moon",
+        "subtitle": "Stories",
         "authors": [
-          "Emma R. Alban"
+          "Amanda Peters"
         ],
         "publisher": "HarperCollins",
-        "publishedDate": "2024-08-27",
-        "description": "The enemies-to-lovers queer Victorian romance follow-up to Don’t Want You Like a Best Friend, in which a young lord and a second son clash, but find themselves thrust together again and again by their meddling cousins. “That man is, without a doubt, the absolute most obnoxious… Bobby Mason is sick of being second best: born the spare, never trusted with family responsibility, never expected to amount to much. He’s hungry to contribute something that matters, while all around him his peers are squandering their political and financial power, coasting through life. Which is exactly why he can’t stand the new Viscount Demeroven. …insufferable… James Demeroven, just come of age and into the Viscountcy, knows that he’s a disappointment. Keeping his head down and never raising anyone’s expectations is how he’s survived life with his stepfather. To quiet, careful James, Bobby Mason is a blazing comet in his endless night, even more alive than he was at Oxford when James crushed on him from afar. But Mason is also brash and recklessly unapologetic, destined to shatter the fragile safety of James’s world. Worst of all, he keeps rubbing James’s failures in his face. …hottest man to ever walk the ton.” They can barely get through a single conversation without tensions boiling over. Neither Bobby nor James has ever met a more intriguing, infuriating, infatuating man. If only they could avoid each other entirely. Bad enough their (wonderful but determined) cousins Beth and Gwen keep conveniently setting up group outings. But when an extortionist starts targeting their families, threatening their reputations, Bobby and James must find a way to work together, without pushing each other’s buttons (or tearing them off) in the process…",
+        "publishedDate": "2024-08-13",
+        "description": "In her debut collection of short fiction, Amanda Peters describes the Indigenous experience from an astonishingly wide spectrum in time and place—from contact with the first European settlers, to the forced removal of Indigenous children, to the present-day fight for the right to clean water. These intimate stories meld traditional storytelling with beautiful, spare prose that portray the dignity of the traditional way of life, the humiliations of systemic racism, and the resilient power to endure. A young man returns from residential school only to realize he can no longer communicate with his own parents. A young woman finds purpose and healing on the front lines as a water protector. An old man remembers his life as he patiently waits for death. And a young girl nervously dances in her first Mawi’omi. The collection also includes the Indigenous Voices Award–nominated story “Pejipug (Winter Arrives)\" as well the Indigenous Voices Award-winning title story. At times sad, sometimes disturbing, but always redemptive, the stories in Waiting for the Long Night Moon will remind you that where there is grief there is also joy, where there is trauma there is resilience and, most importantly, there is power.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780063312050"
+            "identifier": "9781443468237"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0063312050"
+            "identifier": "1443468231"
           }
         ],
         "readingModes": {
           "text": true,
           "image": false
         },
-        "pageCount": 351,
+        "pageCount": 175,
         "printType": "BOOK",
         "categories": [
           "Fiction"
         ],
-        "maturityRating": "MATURE",
+        "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
         "contentVersion": "1.2.2.0.preview.2",
         "panelizationSummary": {
@@ -185,13 +185,13 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=HkLnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=HkLnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=9MbXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9MbXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=HkLnEAAAQBAJ&dq=subject:fiction&hl=&cd=3&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=HkLnEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/You_re_the_Problem_It_s_You.html?hl=&id=HkLnEAAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=9MbXEAAAQBAJ&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9MbXEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Waiting_for_the_Long_Night_Moon.html?hl=&id=9MbXEAAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
@@ -210,181 +210,15 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=HkLnEAAAQBAJ&hl=&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=9MbXEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       }
     },
     {
       "kind": "books#volume",
-      "id": "lJLtEAAAQBAJ",
-      "etag": "TNnQaJinmuE",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Book of Elsewhere",
-        "subtitle": "A Novel",
-        "authors": [
-          "Keanu Reeves",
-          "China Miéville"
-        ],
-        "publisher": "Random House Canada",
-        "publishedDate": "2024-07-23",
-        "description": "A mind-blowing epic from Keanu Reeves and China Miéville, unlike anything these two genre-bending pioneers have created before, inspired by the world of the BRZRKR comic books She said, We needed a tool. So I asked the gods. There have always been whispers. Legends. The warrior who cannot be killed. Who’s seen a thousand civilizations rise and fall. He has had many names: Unute, Child of Lightning, Death himself. These days, he’s known simply as “B.” And he wants to be able to die. In the present day, a U.S. black-ops group has promised him they can help with that. And all he needs to do is help them in return. But when an all-too-mortal soldier comes back to life, the impossible event ultimately points toward a force even more mysterious than B himself. One at least as strong. And one with a plan all its own. In a collaboration that combines Miéville’s singular style and creativity with Reeves’s haunting and soul-stirring narrative, these two inimitable artists have created something utterly unique, sure to delight existing fans and to create scores of new ones.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781039003828"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1039003826"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 353,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.1.1.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=lJLtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=lJLtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Elsewhere.html?hl=&id=lJLtEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=lJLtEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "h57eEAAAQBAJ",
-      "etag": "olSj75w9jbU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
-      "volumeInfo": {
-        "title": "Primal Mirror",
-        "authors": [
-          "Nalini Singh"
-        ],
-        "publisher": "Penguin",
-        "publishedDate": "2024-07-23",
-        "description": "New York Times bestselling author Nalini Singh takes us into a family dark with shadowy secrets, as the world of the Psy teeters on the edge of a final catastrophic collapse. . . . Daughter of two ruthless high-Gradient telepaths, Auden Scott is not the child her Psy parents wanted or expected, even before her brain injury. Her thoughts are scattered, her memories fuzzy—or just terrifyingly blank. The only thing she knows for certain is that she must protect her unborn baby . . . a baby she has no recollection of conceiving and who draws an unnerving depth of interest from her dead mother’s closest associates. Leopard alpha Remi Denier is a man driven by the primal instinct to protect. Protect his pack, protect his allies . . . and protect the mysterious woman who has become a most unlikely neighbor. With eerie eyes that see too much and a scent that alters in ways disturbing and impossible, Auden Scott is the enemy . . . but nothing about this strange Psy is what it seems, and Remi’s feline heart is as fascinated by her as his human half. Then Auden asks Remi to help her shatter the wall of secrets that is the Scott bloodline. What they unearth will reveal a nightmare beyond imagination. This time, the battle is to the death. . . .",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780593440759"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0593440757"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 401,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.1.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=h57eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=h57eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 14.99,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 14.99,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&rdid=book-h57eEAAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 14990000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 14990000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Primal_Mirror-sample-epub.acsm?id=h57eEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=h57eEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "y2EEfJ5G/aM",
+      "etag": "Wet4Eas5I8Q",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -426,7 +260,7 @@
           "thumbnail": "http://books.google.com/books/content?id=hcDhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ"
       },
@@ -455,7 +289,7 @@
     {
       "kind": "books#volume",
       "id": "VT7hEAAAQBAJ",
-      "etag": "U8tWA9f8/Ho",
+      "etag": "uFBrD+6rCiM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
       "volumeInfo": {
         "title": "The Lost Story",
@@ -497,7 +331,7 @@
           "thumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Story.html?hl=&id=VT7hEAAAQBAJ"
       },
@@ -526,7 +360,7 @@
     {
       "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "LiiVL3iWrvY",
+      "etag": "I6UR4v0itr0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -567,7 +401,7 @@
           "thumbnail": "http://books.google.com/books/content?id=cT4NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "es",
-        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ"
       },
@@ -598,7 +432,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "EZ8/NePobFg",
+      "etag": "00bkXKucwHw",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -640,7 +474,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yXnTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
@@ -693,7 +527,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "TEZ3h6F9zCQ",
+      "etag": "PxUVqFRjZ10",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -735,7 +569,7 @@
           "thumbnail": "http://books.google.com/books/content?id=GoP7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
@@ -781,6 +615,195 @@
           "isAvailable": false
         },
         "webReaderLink": "http://play.google.com/books/reader?id=GoP7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YcvaEAAAQBAJ",
+      "etag": "OeYd0BhFWxQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YcvaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Big in Sweden",
+        "subtitle": "A Novel",
+        "authors": [
+          "Sally Franson"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2024-07-02",
+        "description": "“Sally Franson is a world class entertainer. She can finesse a serio-comic moment in a way that leaves you catching your breath. Deft and delicious, this book is a flat out delight machine. A heart opener, a page turner, and a true ‘originell!' I laughed out loud, I ugly cried, and I never, ever wanted it to end.\" -- Meg Ryan, actor, writer, director A charming, wise, and laugh-out-loud funny novel following an American woman competing on a Swedish reality show in an attempt to discover her roots. Paulie Johansson has never put much stock in the idea of family: she has her long-term boyfriend Declan and beloved best friend Jemma, and that’s more than enough for her. Yet one night on a lark, she lets Jemma convince her to audition for Sverige och Mig, a show on Swedish television where Swedish-Americans compete to win the ultimate prize: a reunion with their Swedish relatives. Much to her shock, her drunken submission video wins her a spot on the show, and against Declan’s advice Paulie decides to go for it. Armed with her Polaroid camera, a beat-up copy of Pippi Longstocking, and an unquenchable sense of possibility, Paulie hops on a plane to Sweden and launches into the contest with seven other Americans, all under the watchful eye of a camera crew. At first, Paulie is certain that she and her competitors have nothing in common besides their passports and views their bloodthirsty ambitions with suspicion. Yet amid the increasingly absurd challenges—rowing from Denmark to Sweden in the freezing rain, battling through obstacle courses, competing in a pickled herring eating contest—Paulie finds herself rethinking her snap judgments about her fellow countrymen, while her growing attachment to her Swedish roots increases her resolve to win the competition herself. Grappling with long-held notions of family, friendship, and love—not to mention her feelings for the distractingly handsome Swedish cameraman who’s been assigned to follow her around—Paulie starts to reconsider her past and rethink what she wants for the future. A fish-out-of-water tale filled with warmth, optimism, and wit, Big in Sweden is at its heart a love story: love for family, friends, country, and—most importantly—oneself. \"If you devoured Pippi Longstocking as a kid, you will not be able to turn away from Big in Sweden. Reading this hilarious, heartfelt book was even more fun than watching reality television. I absolutely loved it!\" — Jessica Anya Blau, author of Mary Jane",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063312753"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0063312751"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YcvaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YcvaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YcvaEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YcvaEAAAQBAJ&rdid=book-YcvaEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Big_in_Sweden-sample-epub.acsm?id=YcvaEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YcvaEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K2PhEAAAQBAJ",
+      "etag": "vtVZHBPElAk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Summer of Yes",
+        "authors": [
+          "Courtney Walsh"
+        ],
+        "publisher": "Thomas Nelson",
+        "publishedDate": "2024-07-02",
+        "description": "Sometimes you’re so busy writing other people’s stories that you lose the plot of your own. This wasn’t how Kelsey Worthington’s day was supposed to go. She wasn’t supposed to be picking up Starbucks for her smarmy boss. She wasn’t supposed to get hit by a car that jumped the curb. And she certainly wasn’t supposed to wake up in a hospital room next to Georgina Tate—the legendary matriarch of New York City businesswomen. Kelsey and Georgina couldn’t be more opposite. Kelsey’s a dreamer, a writer who questions her own skill. And Georgina is a confident businesswoman whose years of shouldering her way into boardrooms and making her voice heard have made her far too outspoken for the faint of heart. But now, when Georgina’s failing kidneys force her to face some big regrets about the way she’s lived her life, the two women recognize they share a common thread. Maybe it’s time to confront a few things. They must ask themselves: What if I said yes to everything I’ve always said no to? With Georgina as her companion, Kelsey soon finds herself doing things she’s never done before. Eating street food. Swimming in the ocean. Matchmaking for Georgina with the help of Georgina’s handsome son. And writing her own romance—both in book form and in real life. So begins the Summer of Yes. Stand-alone novel Perfect for fans of Denise Hunter and Rachel Linden Book length: 100,000 words Includes discussion questions for book clubs",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780840713728"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "084071372X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&rdid=book-K2PhEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Summer_of_Yes-sample-epub.acsm?id=K2PhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K2PhEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       }
