@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "dHroEAAAQBAJ",
-      "etag": "dzhZmh8Yp24",
+      "etag": "qNfwNFRclaU",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
         "title": "Private Rites",
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "I4N+jT5bgqE",
+      "etag": "WfVMccuIbEE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -146,79 +146,8 @@
     },
     {
       "kind": "books#volume",
-      "id": "HkLnEAAAQBAJ",
-      "etag": "PUSmBgNMPso",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/HkLnEAAAQBAJ",
-      "volumeInfo": {
-        "title": "You're the Problem, It's You",
-        "subtitle": "A Novel",
-        "authors": [
-          "Emma R. Alban"
-        ],
-        "publisher": "HarperCollins",
-        "publishedDate": "2024-08-27",
-        "description": "The enemies-to-lovers queer Victorian romance follow-up to Don’t Want You Like a Best Friend, in which a young lord and a second son clash, but find themselves thrust together again and again by their meddling cousins. “That man is, without a doubt, the absolute most obnoxious… Bobby Mason is sick of being second best: born the spare, never trusted with family responsibility, never expected to amount to much. He’s hungry to contribute something that matters, while all around him his peers are squandering their political and financial power, coasting through life. Which is exactly why he can’t stand the new Viscount Demeroven. …insufferable… James Demeroven, just come of age and into the Viscountcy, knows that he’s a disappointment. Keeping his head down and never raising anyone’s expectations is how he’s survived life with his stepfather. To quiet, careful James, Bobby Mason is a blazing comet in his endless night, even more alive than he was at Oxford when James crushed on him from afar. But Mason is also brash and recklessly unapologetic, destined to shatter the fragile safety of James’s world. Worst of all, he keeps rubbing James’s failures in his face. …hottest man to ever walk the ton.” They can barely get through a single conversation without tensions boiling over. Neither Bobby nor James has ever met a more intriguing, infuriating, infatuating man. If only they could avoid each other entirely. Bad enough their (wonderful but determined) cousins Beth and Gwen keep conveniently setting up group outings. But when an extortionist starts targeting their families, threatening their reputations, Bobby and James must find a way to work together, without pushing each other’s buttons (or tearing them off) in the process…",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780063312050"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0063312050"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 351,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.2.2.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=HkLnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=HkLnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.com/books?id=HkLnEAAAQBAJ&dq=subject:fiction&hl=&cd=3&source=gbs_api",
-        "infoLink": "http://books.google.com/books?id=HkLnEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/You_re_the_Problem_It_s_You.html?hl=&id=HkLnEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "US",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "US",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=HkLnEAAAQBAJ&hl=&source=gbs_api",
-        "accessViewStatus": "NONE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
       "id": "lJLtEAAAQBAJ",
-      "etag": "NcPUsENCHrM",
+      "etag": "hqHbOO/BaWo",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
       "volumeInfo": {
         "title": "The Book of Elsewhere",
@@ -261,7 +190,7 @@
           "thumbnail": "http://books.google.com/books/content?id=lJLtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=lJLtEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Elsewhere.html?hl=&id=lJLtEAAAQBAJ"
       },
@@ -290,7 +219,7 @@
     {
       "kind": "books#volume",
       "id": "h57eEAAAQBAJ",
-      "etag": "RitnHA5lgQ0",
+      "etag": "Kq/92fXoqRE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
       "volumeInfo": {
         "title": "Primal Mirror",
@@ -331,7 +260,7 @@
           "thumbnail": "http://books.google.com/books/content?id=h57eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=h57eEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h57eEAAAQBAJ"
       },
@@ -384,7 +313,7 @@
     {
       "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "8h9SCLh8bRs",
+      "etag": "WNwlaDwhI8Y",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -426,7 +355,7 @@
           "thumbnail": "http://books.google.com/books/content?id=hcDhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=hcDhEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Bright_Sword.html?hl=&id=hcDhEAAAQBAJ"
       },
@@ -455,7 +384,7 @@
     {
       "kind": "books#volume",
       "id": "VT7hEAAAQBAJ",
-      "etag": "GAz0VEnRaQA",
+      "etag": "xwE8K+0Kwyw",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7hEAAAQBAJ",
       "volumeInfo": {
         "title": "The Lost Story",
@@ -497,7 +426,7 @@
           "thumbnail": "http://books.google.com/books/content?id=VT7hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=VT7hEAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Story.html?hl=&id=VT7hEAAAQBAJ"
       },
@@ -526,7 +455,7 @@
     {
       "kind": "books#volume",
       "id": "cT4NEQAAQBAJ",
-      "etag": "SBjM8JPBwrE",
+      "etag": "eJelUaZzNE8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/cT4NEQAAQBAJ",
       "volumeInfo": {
         "title": "La asistenta te vigila (La asistenta 3)",
@@ -567,7 +496,7 @@
           "thumbnail": "http://books.google.com/books/content?id=cT4NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "es",
-        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
         "infoLink": "http://books.google.com/books?id=cT4NEQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/La_asistenta_te_vigila_La_asistenta_3.html?hl=&id=cT4NEQAAQBAJ"
       },
@@ -598,7 +527,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "NkbsT3VWP8A",
+      "etag": "zmLuGd/ggfg",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -640,7 +569,7 @@
           "thumbnail": "http://books.google.com/books/content?id=yXnTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=yXnTEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yXnTEAAAQBAJ"
       },
@@ -693,7 +622,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "6R+7/Y1GGkE",
+      "etag": "MqIKHWWU3JI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -735,7 +664,7 @@
           "thumbnail": "http://books.google.com/books/content?id=GoP7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "previewLink": "http://books.google.com/books?id=GoP7DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GoP7DwAAQBAJ"
       },
@@ -781,6 +710,100 @@
           "isAvailable": false
         },
         "webReaderLink": "http://play.google.com/books/reader?id=GoP7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K2PhEAAAQBAJ",
+      "etag": "agRZjV//sb8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Summer of Yes",
+        "authors": [
+          "Courtney Walsh"
+        ],
+        "publisher": "Thomas Nelson",
+        "publishedDate": "2024-07-02",
+        "description": "Sometimes you’re so busy writing other people’s stories that you lose the plot of your own. This wasn’t how Kelsey Worthington’s day was supposed to go. She wasn’t supposed to be picking up Starbucks for her smarmy boss. She wasn’t supposed to get hit by a car that jumped the curb. And she certainly wasn’t supposed to wake up in a hospital room next to Georgina Tate—the legendary matriarch of New York City businesswomen. Kelsey and Georgina couldn’t be more opposite. Kelsey’s a dreamer, a writer who questions her own skill. And Georgina is a confident businesswoman whose years of shouldering her way into boardrooms and making her voice heard have made her far too outspoken for the faint of heart. But now, when Georgina’s failing kidneys force her to face some big regrets about the way she’s lived her life, the two women recognize they share a common thread. Maybe it’s time to confront a few things. They must ask themselves: What if I said yes to everything I’ve always said no to? With Georgina as her companion, Kelsey soon finds herself doing things she’s never done before. Eating street food. Swimming in the ocean. Matchmaking for Georgina with the help of Georgina’s handsome son. And writing her own romance—both in book form and in real life. So begins the Summer of Yes. Stand-alone novel Perfect for fans of Denise Hunter and Rachel Linden Book length: 100,000 words Includes discussion questions for book clubs",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780840713728"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "084071372X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K2PhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=K2PhEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=K2PhEAAAQBAJ&rdid=book-K2PhEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Summer_of_Yes-sample-epub.acsm?id=K2PhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K2PhEAAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       }
