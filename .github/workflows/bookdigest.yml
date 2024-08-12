@@ -40,11 +40,10 @@ jobs:
         env:
           ISBNDB_API_KEY: ${{ secrets.ISBNDB_API_KEY }}
 
-      - name: Upload fetched data
-        uses: actions/upload-artifact@v3
-        with:
-          name: books-data
-          path: |
-            google_books.json
-            books_details.json
-            isbn13s.txt
+      - name: Commit and push books details JSON
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add books_details.json
+          git commit -m "Add latest books details"
+          git push origin main
