@@ -6,79 +6,31 @@ on:
       - .github/workflows/bookdigest.yml
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # Corrected to run at the start of every hour
+    - cron: '0 0 * * *' # Runs once a day at midnight UTC
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    steps: 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'  # Use the latest available Python 3 version
-      
+    steps:
       - name: Check out repo
-        uses: actions/checkout@v3
-      
-      - name: Fetch newest
-        uses: githubocto/flat@v3
-        with: 
-          http_url: https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest
-          downloaded_filename: newest.json
+        uses: actions/checkout@v2
 
-      - name: Add genre attribute using OpenAI
+      - name: Fetch ISBN-10 values from Google Books API
         run: |
-          python -m pip install --upgrade pip
-          pip install openai==0.27.0  # Pin to a version before 1.0.0
+          curl "https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest&maxResults=40" | jq -r '.items[].volumeInfo.industryIdentifiers[] | select(.type=="ISBN_10") | .identifier' > isbns.txt
 
-          cat << 'EOF' > modify_json.py
-          import json
-          import openai
-          import os
-
-          openai.api_key = os.getenv("OPENAI_API_KEY")
-
-          def get_genre(description):
-              try:
-                  response = openai.Completion.create(
-                      engine="text-davinci-003",
-                      prompt=f"Identify the genre of this book description: {description}",
-                      max_tokens=10
-                  )
-                  return response.choices[0].text.strip()
-              except Exception as e:
-                  print(f"Error getting genre: {e}")
-                  return "Unknown"
-
-          with open("newest.json", "r") as file:
-              data = json.load(file)
-
-          for book in data.get("items", []):
-              volume_info = book.get("volumeInfo", {})
-              description = volume_info.get("description", "")
-              if description:
-                  genre = get_genre(description)
-                  volume_info["genre"] = genre
-
-          with open("modified_books.json", "w") as file:
-              json.dump(data, file, indent=2)
-          EOF
-
-          python modify_json.py
-
-          # Remove the temporary script
-          rm modify_json.py
-
-      - name: Commit and push changes
+      - name: Retrieve book info from ISBNdb
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          if ! git diff --quiet modified_books.json; then
-            git add modified_books.json
-            git commit -m "Added genre attribute to book items using OpenAI"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          while IFS= read -r isbn; do
+            curl -H "Authorization: ${ISBNDB_API_KEY}" "https://api2.isbndb.com/book/${isbn}" -o "book_${isbn}.json"
+          done < isbns.txt
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISBNDB_API_KEY: ${{ secrets.ISBNDB_API_KEY }}
+
+      - name: Upload fetched data
+        uses: actions/upload-artifact@v3
+        with:
+          name: books-json
+          path: |
+            book_*.json
+            isbns.txt
