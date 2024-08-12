@@ -5,7 +5,7 @@
     {
       "kind": "books#volume",
       "id": "dHroEAAAQBAJ",
-      "etag": "Eun5BiawZYg",
+      "etag": "aUtzBSdoEg4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dHroEAAAQBAJ",
       "volumeInfo": {
         "title": "Private Rites",
@@ -75,7 +75,7 @@
     {
       "kind": "books#volume",
       "id": "wtXtEAAAQBAJ",
-      "etag": "pOCoodfu9Ro",
+      "etag": "Sfe72eTEpt4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/wtXtEAAAQBAJ",
       "volumeInfo": {
         "title": "Secrets of the Lost Ledgers",
@@ -147,7 +147,7 @@
     {
       "kind": "books#volume",
       "id": "HkLnEAAAQBAJ",
-      "etag": "IbrexRKmKm4",
+      "etag": "2rq90rNE4F0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/HkLnEAAAQBAJ",
       "volumeInfo": {
         "title": "You're the Problem, It's You",
@@ -218,7 +218,7 @@
     {
       "kind": "books#volume",
       "id": "lJLtEAAAQBAJ",
-      "etag": "Ajdfp0ZAPqk",
+      "etag": "n26k5IwVpXM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/lJLtEAAAQBAJ",
       "volumeInfo": {
         "title": "The Book of Elsewhere",
@@ -290,7 +290,7 @@
     {
       "kind": "books#volume",
       "id": "h57eEAAAQBAJ",
-      "etag": "lBVouYC5+qI",
+      "etag": "P6g9DG1hN4M",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/h57eEAAAQBAJ",
       "volumeInfo": {
         "title": "Primal Mirror",
@@ -384,7 +384,7 @@
     {
       "kind": "books#volume",
       "id": "hcDhEAAAQBAJ",
-      "etag": "Lfj+zDz/DhQ",
+      "etag": "+/RRCegzMwU",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/hcDhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Bright Sword",
@@ -455,7 +455,7 @@
     {
       "kind": "books#volume",
       "id": "yXnTEAAAQBAJ",
-      "etag": "+cAhXFlVkn8",
+      "etag": "KvWZXJGZPmg",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/yXnTEAAAQBAJ",
       "volumeInfo": {
         "title": "The Burning",
@@ -550,7 +550,7 @@
     {
       "kind": "books#volume",
       "id": "GoP7DwAAQBAJ",
-      "etag": "te0ZTwBvvGA",
+      "etag": "ge/Knga2RjE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/GoP7DwAAQBAJ",
       "volumeInfo": {
         "title": "Long Island Compromise",
@@ -645,7 +645,7 @@
     {
       "kind": "books#volume",
       "id": "K2PhEAAAQBAJ",
-      "etag": "BzZAB6OsCgk",
+      "etag": "zPC+P1jK6E4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/K2PhEAAAQBAJ",
       "volumeInfo": {
         "title": "The Summer of Yes",
@@ -739,7 +739,7 @@
     {
       "kind": "books#volume",
       "id": "ZRrdEAAAQBAJ",
-      "etag": "xCuXqNaQNTE",
+      "etag": "k36tCVlcBac",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRrdEAAAQBAJ",
       "volumeInfo": {
         "title": "The Same Bright Stars",
