@@ -15,22 +15,36 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      - name: Fetch ISBN-10 values from Google Books API
+      - name: Fetch books from Google Books API
         run: |
-          curl "https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest&maxResults=40" | jq -r '.items[].volumeInfo.industryIdentifiers[] | select(.type=="ISBN_10") | .identifier' > isbns.txt
+          curl "https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest&maxResults=40" -o google_books.json
 
-      - name: Retrieve book info from ISBNdb
+      - name: Extract ISBN-13 values
         run: |
+          cat google_books.json | jq -r '.items[]?.volumeInfo.industryIdentifiers[]? | select(.type=="ISBN_13") | .identifier' > isbn13s.txt
+
+      - name: Fetch book details from ISBNdb
+        run: |
+          # Initialize an empty file for book details
+          echo "[]" > books_details.json
+
+          # Read the identifiers and fetch details from ISBNdb
           while IFS= read -r isbn; do
-            curl -H "Authorization: ${ISBNDB_API_KEY}" "https://api2.isbndb.com/book/${isbn}" -o "book_${isbn}.json"
-          done < isbns.txt
+            response=$(curl -H "Authorization: ${ISBNDB_API_KEY}" "https://api2.isbndb.com/book/$isbn")
+            # Check if the response is not null
+            if [ "$(echo "$response" | jq -r '.book')" != "null" ]; then
+              # Append the book details to the books_details.json
+              jq --argjson new_book "$response" '. += [$new_book]' books_details.json > temp.json && mv temp.json books_details.json
+            fi
+          done < isbn13s.txt
         env:
           ISBNDB_API_KEY: ${{ secrets.ISBNDB_API_KEY }}
 
       - name: Upload fetched data
         uses: actions/upload-artifact@v3
         with:
-          name: books-json
+          name: books-data
           path: |
-            book_*.json
-            isbns.txt
+            google_books.json
+            books_details.json
+            isbn13s.txt
