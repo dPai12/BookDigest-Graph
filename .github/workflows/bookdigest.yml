@@ -48,9 +48,8 @@ jobs:
           git commit -m "Add latest books details"
           git push origin main
 
-      - name: Neo4j import
+      - name: Flat Graph
         uses: johnymontana/flat-graph@v1.2
-      
         with:
          neo4j-user: ${{ secrets.NEO4J_USER }}
          neo4j-password: ${{ secrets.NEO4J_PASSWORD }}
