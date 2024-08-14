@@ -47,3 +47,35 @@ jobs:
           git add books_details.json
           git commit -m "Add latest books details"
           git push origin main
+
+      -name: Neo4j import
+       uses: dPai12/flat-graph@v1.2
+       with:
+         neo4j-user: ${{ secrets.NEO4J_USER }}
+         neo4j-password: ${{ secrets.NEO4J_PASSWORD }}
+         neo4j-uri: ${{ secrets.URI }}
+         filename: books_details.json
+         cypher-query: >
+           UNWIND $value as article
+           MERGE (s: Book {name: article.book.title})
+           SET s.longTitle = article.book.title_long,
+           s.publishedDate = article.book.date_published,
+           s.publisher = article.book.publisher,
+           s.description = article.book.synopsis,
+           s.isbn13 = article.book.isbn13,
+           s.isbn10 = article.book.isbn10,
+           s.isbn = article.book.isbn,
+           s.language = article.book.language,
+           s.pageCount = article.book.pages,
+           s.bookType = article.book.binding,
+           s.msrp = article.book.msrp
+            
+           WITH article, s
+           UNWIND article.book.authors AS authorName
+           MERGE (a: Author {name: authorName})
+           MERGE (a)<-[w:WRITTEN_BY]-(s)
+
+           WITH article, s
+           UNWIND article.book.subjects AS genreName
+           MERGE (g: Genre {name: genreName})
+           MERGE (g)<-[b:BELONGS_TO]-(s)
