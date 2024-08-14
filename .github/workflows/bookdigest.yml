@@ -49,7 +49,8 @@ jobs:
           git push origin main
 
       - name: Neo4j import
-        uses: dPai12/flat-graph@v1.2
+        uses: johnymontana/flat-graph@v1.2
+      
         with:
          neo4j-user: ${{ secrets.NEO4J_USER }}
          neo4j-password: ${{ secrets.NEO4J_PASSWORD }}
