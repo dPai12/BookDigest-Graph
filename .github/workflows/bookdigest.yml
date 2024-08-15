@@ -27,7 +27,6 @@ jobs:
         run: |
           # Initialize an empty file for book details
           echo "[]" > books_details.json
-
           # Read the identifiers and fetch details from ISBNdb
           while IFS= read -r isbn; do
             response=$(curl -H "Authorization: ${ISBNDB_API_KEY}" "https://api2.isbndb.com/book/$isbn")
@@ -46,6 +45,8 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add books_details.json
           git commit -m "Add latest books details"
+          # Pull latest changes and handle conflicts automatically
+          git pull --rebase origin main
           git push origin main
 
       - name: Flat Graph
@@ -74,7 +75,6 @@ jobs:
            UNWIND article.book.authors AS authorName
            MERGE (a: Author {name: authorName})
            MERGE (a)<-[w:WRITTEN_BY]-(s)
-
            WITH article, s
            UNWIND article.book.subjects AS genreName
            MERGE (g: Genre {name: genreName})
