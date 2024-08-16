@@ -18,16 +18,13 @@ jobs:
       - name: Fetch books from Google Books API
         run: |
           curl "https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest&maxResults=40" -o google_books.json
-
       - name: Extract ISBN-13 values
         run: |
           cat google_books.json | jq -r '.items[]?.volumeInfo.industryIdentifiers[]? | select(.type=="ISBN_13") | .identifier' > isbn13s.txt
-
       - name: Fetch book details from ISBNdb
         run: |
           # Initialize an empty file for book details
           echo "[]" > books_details.json
-
           # Read the identifiers and fetch details from ISBNdb
           while IFS= read -r isbn; do
             response=$(curl -H "Authorization: ${ISBNDB_API_KEY}" "https://api2.isbndb.com/book/$isbn")
@@ -47,35 +44,3 @@ jobs:
           git add books_details.json
           git commit -m "Add latest books details"
           git push origin main
-
-      - name: Flat Graph
-        uses: johnymontana/flat-graph@v1.2
-        with:
-         neo4j-user: ${{ secrets.NEO4J_USER }}
-         neo4j-password: ${{ secrets.NEO4J_PASSWORD }}
-         neo4j-uri: ${{ secrets.URI }}
-         filename: books_details.json
-         cypher-query: >
-           UNWIND $value as article
-           MERGE (s: Book {name: article.book.title})
-           SET s.longTitle = article.book.title_long,
-           s.publishedDate = article.book.date_published,
-           s.publisher = article.book.publisher,
-           s.description = article.book.synopsis,
-           s.isbn13 = article.book.isbn13,
-           s.isbn10 = article.book.isbn10,
-           s.isbn = article.book.isbn,
-           s.language = article.book.language,
-           s.pageCount = article.book.pages,
-           s.bookType = article.book.binding,
-           s.msrp = article.book.msrp
-            
-           WITH article, s
-           UNWIND article.book.authors AS authorName
-           MERGE (a: Author {name: authorName})
-           MERGE (a)<-[w:WRITTEN_BY]-(s)
-
-           WITH article, s
-           UNWIND article.book.subjects AS genreName
-           MERGE (g: Genre {name: genreName})
-           MERGE (g)<-[b:BELONGS_TO]-(s)
