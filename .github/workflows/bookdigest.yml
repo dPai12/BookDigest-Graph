@@ -41,10 +41,10 @@ jobs:
 
       - name: Convert fields to string format
         run: |
-          jq 'map(. | 
-            .pageCount = (.pageCount | tostring) | 
-            .publishedDate = (.publishedDate | tostring) | 
-            .msrp = (.msrp | tostring)
+          jq 'map(.book | 
+            if .pages != null then .pages = (.pages | tostring) else . end |
+            if .date_published != null then .date_published = (.date_published | tostring) else . end |
+            if .msrp != null then .msrp = (.msrp | tostring) else . end
           )' books_details.json > temp.json && mv temp.json books_details.json
 
       - name: Commit and push books details JSON
