@@ -47,6 +47,33 @@
   },
   {
     "book": {
+      "publisher": "HarperCollins",
+      "synopsis": "In the vein of Where’d You Go, Bernadette and Fleishman Is in Trouble, a wickedly funny and incisive debut novel following a mother trapped in the rat race of NYC parenting as her life unravels. \"Funny, relatable fiction for anyone who thinks they're above the fray but still want to read all about it.\"—People \"Heavenly hilarity for readers.\"—Good Housekeeping It takes a village...just not this one.  Annie Lewin is at the end of her rope. She’s a mother of three young children, her workaholic husband is never around, and the vicious competition for spots in New York City’s kindergartens is heating up. A New York Times journalist-turned-parenting-advice-columnist for an internet start-up, Annie can’t help but judge the insanity of it all—even as she finds herself going to impossible lengths to secure the best spot for her own son. As Annie comes to terms with the infinitesimal odds of success, her intensifying rivalry with hotshot lawyer Belinda Brenner—a deliciously hateful nemesis, what with her perfectly curated bento box lunches and effortless Instagram chic—pushes her to the brink. Of course, this newly raw and unhinged version of Annie is great for the advice column: the more she spins out, the more clicks and comments she gets. But when she commits a ghastly social faux pas that goes viral, she’s forced to confront the question: is she really any better than the cutthroat parents she always judged? A shimmering epistolary novel incorporating emails, group texts, advice columns, newspaper profiles, and more, Plays Well with Others is a whip-smart, genuinely funny romp through the minefield of modern motherhood. But beneath its fast-paced, satirical veneer, Brickman gives us a fresh, open-hearted, all-too-real take on what it means to be a parent—fierce love, craziness, and all.  ",
+      "language": "English",
+      "image": "https://images.isbndb.com/covers/12/31/9780063371231.jpg",
+      "title_long": "Plays Well With Others",
+      "edition": 7,
+      "pages": 416,
+      "date_published": "2024-08-06",
+      "subjects": [
+        "Humorous",
+        "Contemporary Women",
+        "Family Life",
+        "Satire"
+      ],
+      "authors": [
+        "Sophie Brickman"
+      ],
+      "title": "Plays Well with Others",
+      "isbn13": "9780063371231",
+      "msrp": 22.4,
+      "binding": "ePub",
+      "isbn": "0063371235",
+      "isbn10": "0063371235"
+    }
+  },
+  {
+    "book": {
       "publisher": "Random House Canada",
       "language": "en",
       "image": "https://images.isbndb.com/covers/38/28/9781039003828.jpg",
@@ -112,29 +139,6 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
-  },
-  {
-    "book": {
-      "publisher": "New York : Minotaur Books,",
-      "synopsis": "Chief Of Police Kate Burkholder Investigates A Gruesome Murder That Reveals A Little-known Chapter Of Early Amish History In This Next Riveting Installment Of The Bestselling Series By Linda Castillo. Newlywed Chief Of Police Kate Burkholder Is Awakened By An Urgent Midnight Call Summoning Her To A Suspicious Fire In The Woods. When She Arrives At The Scene, She Discovers A Charred Body. According To The Coroner, The Deceased, An Amish Man Named Milan Swanz, Was Chained To A Stake And Burned Alive. It Is An Appalling And Eerily Symbolic Crime Against An Upstanding Husband And Father. Kate Knows All Too Well That The Amish Prefer To Handle Their Problems Without Interference From The Outside World, And No One Will Speak About The Murdered Man. From What She's Able To Piece Together, Swanz Led A Deeply Troubled Life And Had Recently Been Excommunicated. But If That's The Case, Why Are The Amish So Reluctant To Talk About Him? Are They Protecting The Memory Of One Of Their Own? Or Are They Afraid Of Something They Dare Not Share? When Her Own Brother Is Implicated In The Case, Kate Finds Herself Not Only At Odds With The Amish, The World Of Which She Was Once A Part, But Also The English Community And Her Counterparts In Law Enforcement. The Investigation Takes A Violent Turn When Kate's Life Is Threatened By A Mysterious Stranger. To Uncover The Truth About The Death Of Milan Swanz, Kate Must Dive Deep Into The Anabaptist Culture, Peering Into All The Dark Corners Of Its History, Only To Uncover A Secret Legacy That Shatters Everything She Thought She Knew About The Amish Themselves-and Her Own Roots-- Provided By Publisher.",
-      "language": "en",
-      "image": "https://images.isbndb.com/covers/11/23/9781250781123.jpg",
-      "title_long": "Burning",
-      "edition": 1,
-      "pages": 283,
-      "date_published": "2024",
-      "subjects": [
-        "Amish"
-      ],
-      "authors": [
-        "Castillo, Linda"
-      ],
-      "title": "Burning",
-      "isbn13": "9781250781123",
-      "msrp": "0.00",
-      "isbn": "1250781124",
-      "isbn10": "1250781124"
     }
   },
   {
@@ -349,36 +353,6 @@
   },
   {
     "book": {
-      "publisher": "Sourcebooks",
-      "synopsis": "STAY ANCHORED IN THE LIGHT, THEY TOLD HER. BUT WHAT HAD THE LIGHT EVER DONE FOR HER? After discovering she's prophesied to save the realm, Aya's duty should be clear: return home with once-sworn enemy Will to serve their queen in the coming war against a rival kingdom…one whose pursuit of dark magic could bring the realm to its knees. But with part of the prophecy still undiscovered, and their queen's intentions increasingly suspect, Aya's very purpose is quickly brought into question. With betrayal lurking around every corner, she and Will are forced to lie, manipulate, and hide what they've become to one another as they struggle to learn the truth before dark magic destroys them all. And with secrets and lies trailing Aya wherever she goes, she has to wonder…do the gods truly want her to save the realm…or simply watch it burn?﻿ The Curse of Sins is the second installment in the stunning romantic fantasy series, The Curse of Saints.",
-      "language": "English",
-      "image": "https://images.isbndb.com/covers/96/70/9781728289670.jpg",
-      "edition": 7,
-      "pages": 261,
-      "date_published": "2024-06-25",
-      "subjects": [
-        "Epic",
-        "Fantasy"
-      ],
-      "authors": [
-        "Kate Dramis"
-      ],
-      "title": "The Curse of Sins",
-      "isbn13": "9781728289670",
-      "msrp": 120,
-      "binding": "ePub",
-      "isbn": "172828967X",
-      "isbn10": "172828967X",
-      "other_isbns": [
-        {
-          "isbn": "9781728289663",
-          "binding": "printisbncanonical"
-        }
-      ]
-    }
-  },
-  {
-    "book": {
       "publisher": "Casa Editrice Nord",
       "synopsis": "<p>Salento, 1959. Lorenzo e Agnese hanno perso tutto. E lo capiscono quando, con gli occhi tristi che si porta dietro da una vita, il padre annuncia di aver venduto il saponificio di famiglia, un'eredità che lui ha vissuto come una condanna. Per Lorenzo e Agnese, invece, quella fabbrica che il nonno ha creato dal nulla, che profuma di talco, di essenze floreali e di oli vegetali, e che occupa ogni loro pensiero, era la certezza di un presente sereno e la promessa di un futuro da tracciare insieme, uniti. Quindi l'idea di rimanere lì come semplici operai sotto un nuovo, arrogante padrone è devastante per entrambi. Lorenzo, orgoglioso e impulsivo, se ne va sbattendo la porta, col cuore colmo di rabbia e con un solo obiettivo: trovare i soldi necessari per riprendersi quello che è suo. Ma Agnese non lo segue: tanto risoluta se si tratta di formulare saponi quanto insicura quando le tocca abitare il mondo al di fuori del saponificio, dichiara: «Io resto dov'è casa mia». È una crepa profonda, apparentemente insanabile, quella che si apre tra fratello e sorella e li spingerà su strade opposte e imprevedibili. Perché vogliono la stessa cosa, Lorenzo e Agnese, almeno finché l'amore non li porterà di nuovo a un bivio. Ognuno dei due farà una scelta, tracciando un altro domani… Sarà per entrambi un domani senza rimpianti? Questa è la storia della passione che prima unisce e poi divide un fratello e una sorella. Una storia che parla di decisioni prese ascoltando la mente o il cuore oppure tutti e due. Di quell'istante che può cambiare una vita intera. Ma anche di un'Italia che, incredula, sta scoprendo un improvviso benessere, che lavora alla catena di montaggio e poi canta con Mina e balla al ritmo del twist, giovane, creativa, impaziente…<br></p>",
       "language": "ita",
@@ -443,36 +417,6 @@
       "other_isbns": [
         {
           "isbn": "9781324074878",
-          "binding": "printisbncanonical"
-        }
-      ]
-    }
-  },
-  {
-    "book": {
-      "publisher": "Simon & Schuster",
-      "synopsis": "In this gripping and intensely atmospheric debut, disquiet descends on a small town after the suspicious death of a beautiful young doctor, with all clues pointing to the reclusive young man who abandoned the community in chase of big city dreams but returned for the first love he left behind. Perfect for fans of All Good People Here and Where the Crawdads Sing. One peaceful morning, in the small, Puget Sound town of Point Orchards, the lifeless body of Dr. Erin Landry is found hanging from a tree on the property of prodigal son and failed writer, Elijah Leith. Sheriff Jim Godbout’s initial investigation points to an obvious suicide, but upon closer inspection, there seem to be clues of foul play when he discovers that the circumstances of the beautiful doctor’s death were ripped straight from the pages of Elijah Leith’s own novel. Out of money and motivation, thirty-three-year-old Elijah returns to his empty childhood home to lick the wounds of his futile writing career. Hungry for purpose, he throws himself into restoring the ramshackle cabin his father left behind and rekindling his relationship with Nakita, the extraordinary girl from the nearby reservation whom he betrayed but was never able to forget. As the town of Point Orchards turns against him, Elijah must fight for his innocence against an unexpected foe who is close and cunning enough to flawlessly frame him for murder in this scintillating literary thriller that seeks to uncover a case of love, loss, and revenge.",
-      "language": "English",
-      "image": "https://images.isbndb.com/covers/51/15/9781668035115.jpg",
-      "title_long": "Middletide",
-      "edition": 11,
-      "pages": 784,
-      "date_published": "2024-06-11",
-      "subjects": [
-        "Suspense"
-      ],
-      "authors": [
-        "Sarah Crouch"
-      ],
-      "title": "Middletide",
-      "isbn13": "9781668035115",
-      "msrp": 19.95,
-      "binding": "ePub",
-      "isbn": "1668035111",
-      "isbn10": "1668035111",
-      "other_isbns": [
-        {
-          "isbn": "9781668035092",
           "binding": "printisbncanonical"
         }
       ]
@@ -703,30 +647,29 @@
   },
   {
     "book": {
-      "publisher": "Simon & Schuster",
-      "synopsis": "OPRAH’S BOOK CLUB PICK * INSTANT NEW YORK TIMES BESTSELLER * “Stunning.” —People * “Dazzling yet devastating...Tóibín is simply one of the world’s best living literary writers.” —The Boston Globe * “Momentous and hugely affecting.” —The Wall Street Journal * From the beloved, critically acclaimed, bestselling author comes a spectacularly moving novel featuring Eilis Lacey, the complex and enigmatic heroine of Brooklyn, Tóibín’s most popular work in twenty years. Eilis Lacey is Irish, married to Tony Fiorello, a plumber and one of four Italian American brothers, all of whom live in neighboring houses on a cul-de-sac in Lindenhurst, Long Island, with their wives and children and Tony’s parents, a huge extended family. It is the spring of 1976 and Eilis is now forty with two teenage children. Though her ties to Ireland remain stronger than those that hold her to her new land and home, she has not returned in decades. One day, when Tony is at work an Irishman comes to the door asking for Eilis by name. He tells her that his wife is pregnant with Tony’s child and that when the baby is born, he will not raise it but instead deposit it on Eilis’s doorstep. It is what Eilis does—and what she refuses to do—in response to this stunning news that makes Tóibín’s novel so riveting and suspenseful. Long Island is a gorgeous story “about a woman thrashing against the constraints of fate” (Maureen Corrigan, Fresh Air). It is “a wonder, rich with yearning and regret” (Star Tribune, Minneapolis).",
+      "publisher": "HarperCollins",
+      "synopsis": "An emotional, slow-burn, grumpy/sunshine, queer mid-century romance for fans of Evvie Drake Starts Over, about grief and found family, between the new star shortstop stuck in a batting slump and the reporter assigned to (reluctantly) cover his first season—set in the same universe as We Could Be So Good. The 1960 baseball season is shaping up to be the worst year of Eddie O’Leary’s life. He can’t manage to hit the ball, his new teammates hate him, he’s living out of a suitcase, and he’s homesick. When the team’s owner orders him to give a bunch of interviews to some snobby reporter, he’s ready to call it quits. He can barely manage to behave himself for the length of a game, let alone an entire season. But he’s already on thin ice, so he has no choice but to agree. Mark Bailey is not a sports reporter. He writes for the arts page, and these days he’s barely even managing to do that much. He’s had a rough year and just wants to be left alone in his too-empty apartment, mourning a partner he’d never been able to be public about. The last thing he needs is to spend a season writing about New York’s obnoxious new shortstop in a stunt to get the struggling newspaper more readers. Isolated together within the crush of an anonymous city, these two lonely souls orbit each other as they slowly give in to the inevitable gravity of their attraction. But Mark has vowed that he’ll never be someone’s secret ever again, and Eddie can’t be out as a professional athlete. It’s just them against the world, and they’ll both have to decide if that’s enough.",
       "language": "English",
-      "image": "https://images.isbndb.com/covers/51/34/9781476785134.jpg",
-      "edition": 3,
+      "image": "https://images.isbndb.com/covers/28/11/9780063272811.jpg",
+      "title_long": "You Should Be So Lucky",
+      "edition": 1,
       "pages": 212,
       "date_published": "2024-05-07",
       "subjects": [
-        "Historical",
-        "Literary",
-        "Family Life"
+        "Sports"
       ],
       "authors": [
-        "Colm Toibin"
+        "Cat Sebastian"
       ],
-      "title": "Long Island",
-      "isbn13": "9781476785134",
-      "msrp": 39.95,
+      "title": "You Should Be So Lucky",
+      "isbn13": "9780063272811",
+      "msrp": 15.19,
       "binding": "ePub",
-      "isbn": "1476785139",
-      "isbn10": "1476785139",
+      "isbn": "0063272814",
+      "isbn10": "0063272814",
       "other_isbns": [
         {
-          "isbn": "9781476785110",
+          "isbn": "9780063272804",
           "binding": "printisbncanonical"
         }
       ]
@@ -832,6 +775,29 @@
           "binding": "printisbncanonical"
         }
       ]
+    }
+  },
+  {
+    "book": {
+      "publisher": "Sweet Escape Publishing, LLC",
+      "synopsis": "“when We’re Dating, You Are Mine. Even If It’s Fake.” I Thought My Luck Was About To Change When My Best Friend Found Me An Apartment To Sublet In The Heart Of Nashville, Tn. As An Aspiring Singer, This Is Where I Need To Be In Order To Finally Get Discovered. I’m Ready To Start My New Life Until I Discover My New Neighbor Is None Other Than Stone Walker. Super Bowl Winning, Nfl Receiver. Stone Cold Fox. My High School Crush. And My Brother’s Ex-best Friend—emphasis On The Ex. I Know I Should Probably Tuck Tail And Run, But I Don’t. If Stone Can Handle This New Living Arrangement Then So Can I. Besides, Neighbors Don’t Have To Talk To Each Other. Until My Best Friend Comes Up With A Plan. I Should Fake Date Stone. After All, I Have The Talent, The Drive, And The Music. All I Need Is The Visibility. And Stone Has That In Spades. I Thought He Would Reject The Plan, But He’s Surprisingly On Board. Now He’s Showing Up At My Gigs With Flowers And Kisses Me Until My Head Spins And My Knees Go Weak. And When He Scores A Touchdown And Dances Just For Me? I Want This Relationship To Be Real. But Falling In Love Wasn’t Part Of The Agreement. Stone Walked Way From Our Family Once And I Don’t Think I’m Strong Enough For Him To Do It Again.",
+      "language": "en",
+      "image": "https://images.isbndb.com/covers/30/16/9781963633016.jpg",
+      "title_long": "Lucky Charm",
+      "pages": 265,
+      "date_published": 2024,
+      "subjects": [
+        "Fiction, romance, general",
+        "Fiction, general"
+      ],
+      "authors": [
+        "Anne-Marie Meyer"
+      ],
+      "title": "Lucky Charm",
+      "isbn13": "9781963633016",
+      "msrp": "0.00",
+      "isbn": "1963633016",
+      "isbn10": "1963633016"
     }
   },
   {
@@ -977,6 +943,37 @@
       "other_isbns": [
         {
           "isbn": "9781982166823",
+          "binding": "printisbncanonical"
+        }
+      ]
+    }
+  },
+  {
+    "book": {
+      "publisher": "Hachette",
+      "synopsis": "Biloxi’s best criminal defense attorney has never lost a case. Then his client’s beautiful wife is murdered, and America’s #1 lawyer suddenly becomes its #1 suspect.  Stafford Lee Penney is a small-town lawyer with a big-time reputation for winning every case he tries. In his sharp suits and polished Oxford shoes, Penney is Biloxi, Mississippi’s #1 Lawyer and top local celebrity.   Just as Penney notches his latest courtroom victory, his wife is scandalously killed. He spirals into a legal and personal losing streak, damaging his reputation and ruining his career.    That’s when Penney makes a bold decision. He stops trading on his power-lawyer identity and creates a new one: lawyer lifeguard. Moonlighting at the beach, showing up to court in flip-flops, mentoring a law student, the new Penney is at first unrecognizable.    It’s said that a lawyer who represents himself has a fool for a client. But when Penney is accused of murder, the #1 Lawyer will find a way to triumph. ",
+      "language": "English",
+      "image": "https://images.isbndb.com/covers/96/99/9780316499699.jpg",
+      "title_long": "#1 Lawyer",
+      "edition": 8,
+      "pages": 212,
+      "date_published": "2024-03-18",
+      "subjects": [
+        "Suspense"
+      ],
+      "authors": [
+        "James Patterson",
+        "Nancy Allen"
+      ],
+      "title": "The #1 Lawyer",
+      "isbn13": "9780316499699",
+      "msrp": 94.88,
+      "binding": "ePub",
+      "isbn": "0316499692",
+      "isbn10": "0316499692",
+      "other_isbns": [
+        {
+          "isbn": "9780316499675",
           "binding": "printisbncanonical"
         }
       ]
