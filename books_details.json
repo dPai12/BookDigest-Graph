@@ -43,7 +43,50 @@
       "binding": "Hardcover",
       "isbn": "125034431X",
       "isbn10": "125034431X"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
+  },
+  {
+    "book": {
+      "publisher": "Kensington",
+      "synopsis": "Set in the Carolinas in the 1940s, this riveting novel of historical fiction from the acclaimed and award-winning author of The Saints of Swallow Hill is a beautifully written, evocative account of a young woman reckoning not just with the unforgiving landscape, but with the rocky emotional terrain that leads from innocence to wisdom.<br/><br/>For fourteen-year-old Wallis Ann Stamper and her family, life in the Appalachian Mountains is simple and satisfying, though not for the tenderhearted. While her older sister, Laci—a mute, musically gifted savant—is constantly watched over and protected, Wallis Ann is as practical and sturdy as her name. When the Tuckasegee River bursts its banks, forcing them to flee in the middle of the night, those qualities save her life. But though her family is eventually reunited, the tragedy opens Wallis Ann’s eyes to a world beyond the creek that’s borne their name for generations.<br/><br/>Carrying what’s left of their possessions, the Stampers begin another perilous journey from their ruined home to the hill country of South Carolina. Wallis Ann’s blossoming friendship with Clayton, a high diving performer for a traveling show, sparks a new opportunity, and the family joins as a singing group. But Clayton’s attention to Laci drives a wedge between the two sisters. As jealousy and betrayal threaten to accomplish what hardship never could—divide the family for good—Wallis Ann makes a decision that will transform them all in unforeseeable ways . . .",
+      "language": "en",
+      "image": "https://images.isbndb.com/covers/45/92/9781496754592.jpg",
+      "title_long": "The Road to Bittersweet",
+      "dimensions": "Weight: 0.81130112416 Pounds",
+      "dimensions_structured": {
+        "weight": {
+          "unit": "pounds",
+          "value": 0.81130112416
+        }
+      },
+      "pages": 336,
+      "date_published": "2024-08-20",
+      "subjects": [
+        "Literature & Fiction",
+        "Genre Fiction",
+        "Coming of Age",
+        "Family Life",
+        "Women's Fiction",
+        "Domestic Life",
+        "Friendship",
+        "Contemporary"
+      ],
+      "authors": [
+        "Donna Everhart"
+      ],
+      "title": "The Road to Bittersweet",
+      "isbn13": "9781496754592",
+      "msrp": "0.00",
+      "binding": "Paperback",
+      "isbn": "149675459X",
+      "isbn10": "149675459X"
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -70,7 +113,10 @@
       "binding": "ePub",
       "isbn": "0063371235",
       "isbn10": "0063371235"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -109,37 +155,10 @@
       "binding": "Hardcover",
       "isbn": "1039003826",
       "isbn10": "1039003826"
-    }
-  },
-  {
-    "book": {
-      "publisher": "Penguin US",
-      "synopsis": "New York Times bestselling author Nalini Singh takes us into a family dark with shadowy secrets, as the world of the Psy teeters on the edge of a final catastrophic collapse. . . .   Daughter of two ruthless high-Gradient telepaths, Auden Scott is not the child her Psy parents wanted or expected, even before her brain injury. Her thoughts are scattered, her memories fuzzy—or just terrifyingly blank. The only thing she knows for certain is that she must protect her unborn baby . . . a baby she has no recollection of conceiving and who draws an unnerving depth of interest from her dead mother’s closest associates.   Leopard alpha Remi Denier is a man driven by the primal instinct to protect. Protect his pack, protect his allies . . . and protect the mysterious woman who has become a most unlikely neighbor. With eerie eyes that see too much and a scent that alters in ways disturbing and impossible, Auden Scott is the enemy . . . but nothing about this strange Psy is what it seems, and Remi’s feline heart is as fascinated by her as his human half.   Then Auden asks Remi to help her shatter the wall of secrets that is the Scott bloodline. What they unearth will reveal a nightmare beyond imagination. This time, the battle is to the death. . . .",
-      "language": "English",
-      "image": "https://images.isbndb.com/covers/07/59/9780593440759.jpg",
-      "title_long": "Primal Mirror",
-      "edition": 1,
-      "pages": 1026,
-      "date_published": "2024-07-23",
-      "subjects": [
-        "Paranormal"
-      ],
-      "authors": [
-        "Nalini Singh"
-      ],
-      "title": "Primal Mirror",
-      "isbn13": "9780593440759",
-      "msrp": 30,
-      "binding": "ePub",
-      "isbn": "0593440757",
-      "isbn10": "0593440757",
-      "other_isbns": [
-        {
-          "isbn": "9780593440735",
-          "binding": "printisbncanonical"
-        }
-      ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -172,7 +191,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -208,7 +230,10 @@
           "binding": "print"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -239,7 +264,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -295,7 +323,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -327,7 +358,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -349,7 +383,10 @@
       "binding": "eBook",
       "isbn": "8858445805",
       "isbn10": "8858445805"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -371,7 +408,10 @@
       "binding": "eBook",
       "isbn": "8842936464",
       "isbn10": "8842936464"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -390,7 +430,10 @@
       "msrp": "0.00",
       "isbn": "1949364380",
       "isbn10": "1949364380"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -420,7 +463,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -439,7 +485,10 @@
       "msrp": "0.00",
       "isbn": "902547604X",
       "isbn10": "902547604X"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -458,7 +507,10 @@
       "msrp": "0.00",
       "isbn": "8425367638",
       "isbn10": "8425367638"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -488,7 +540,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -507,7 +562,10 @@
       "msrp": "0.00",
       "isbn": "9357089365",
       "isbn10": "9357089365"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -537,7 +595,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -556,7 +617,10 @@
       "msrp": "0.00",
       "isbn": "3755810034",
       "isbn10": "3755810034"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -612,7 +676,10 @@
           "binding": "print"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -643,7 +710,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -673,7 +743,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -703,7 +776,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -728,7 +804,10 @@
       "msrp": "0.00",
       "isbn": "0861548841",
       "isbn10": "0861548841"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -746,7 +825,10 @@
       "msrp": "0.00",
       "isbn": "8893906546",
       "isbn10": "8893906546"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -775,7 +857,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -798,7 +883,10 @@
       "msrp": "0.00",
       "isbn": "1963633016",
       "isbn10": "1963633016"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -820,7 +908,10 @@
       "binding": "eBook",
       "isbn": "8858444965",
       "isbn10": "8858444965"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -839,7 +930,10 @@
       "msrp": "0.00",
       "isbn": "398718227X",
       "isbn10": "398718227X"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -858,7 +952,10 @@
       "msrp": "0.00",
       "isbn": "3987182253",
       "isbn10": "3987182253"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -876,7 +973,10 @@
       "msrp": "0.00",
       "isbn": "8834617037",
       "isbn10": "8834617037"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -895,7 +995,10 @@
       "msrp": "0.00",
       "isbn": "9044656279",
       "isbn10": "9044656279"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -914,7 +1017,10 @@
       "msrp": "0.00",
       "isbn": "6556096687",
       "isbn10": "6556096687"
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -946,7 +1052,10 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   },
   {
     "book": {
@@ -977,6 +1086,9 @@
           "binding": "printisbncanonical"
         }
       ]
-    }
+    },
+    "pageCount": "null",
+    "publishedDate": "null",
+    "msrp": "null"
   }
 ]
