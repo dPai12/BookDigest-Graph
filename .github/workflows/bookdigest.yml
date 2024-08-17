@@ -18,9 +18,11 @@ jobs:
       - name: Fetch books from Google Books API
         run: |
           curl "https://www.googleapis.com/books/v1/volumes?q=subject:fiction&orderBy=newest&maxResults=40" -o google_books.json
+
       - name: Extract ISBN-13 values
         run: |
           cat google_books.json | jq -r '.items[]?.volumeInfo.industryIdentifiers[]? | select(.type=="ISBN_13") | .identifier' > isbn13s.txt
+
       - name: Fetch book details from ISBNdb
         run: |
           # Initialize an empty file for book details
@@ -36,6 +38,14 @@ jobs:
           done < isbn13s.txt
         env:
           ISBNDB_API_KEY: ${{ secrets.ISBNDB_API_KEY }}
+
+      - name: Convert fields to string format
+        run: |
+          jq 'map(. | 
+            .pageCount = (.pageCount | tostring) | 
+            .publishedDate = (.publishedDate | tostring) | 
+            .msrp = (.msrp | tostring)
+          )' books_details.json > temp.json && mv temp.json books_details.json
 
       - name: Commit and push books details JSON
         run: |
