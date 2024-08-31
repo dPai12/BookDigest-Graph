@@ -110,6 +110,23 @@
     "isbn10": "1039003826"
   },
   {
+    "publisher": "Simon And Schuster",
+    "synopsis": "From The Bestselling Author Of Nearly All The Men In Lagos Are Mad Comes A Powerful Polyphonic Novel About Family Secrets, Judgmental Aunties, And Brazilian Butt Lifts. Freshly Out Of University, 20-year-old Temi Has A Clear Plan For Her Future: She Is Going To Surgically Enlarge Her Backside Like All The Other Nigerian Women, Move From Ile-ife To Lagos, And Meet A Man Who Will Love Her Senseless. When She Finally Finds The Courage To Tell Her Mother, Older Sister, And Aunties, At The Funeral Of Her Beloved Father, Her Announcement Causes An Uproar - Because In Nigerian Families, None Of Your Business Is Private. Not Even If It’s About Your Bumbum. But As Each Of The Other Women Try To Cure Temi Of What They Consider To Be Insanity, The Long-buried Secrets That Bind And Separate Them Are Spilled In The Process. In The End, It Seems Like Temi Might Be The Sanest Of Them All… In Only Big Bumbum Matters Tomorrow, Damilare Kuku Brings Her Signature Humor, Boldness, And Compassion To Each Member Of This Loveable But Exasperating Family, Whose Lives Reveal The Ways In Which A Woman’s Physical Appearance Can Dictate Her Life And Relationships And Show Just How Sharp The Double-edged Sword Of Beauty Can Be. Praise For Only Big Bumbum Matters Tomorrow: 'damilare Kuku, Queen Of The Banging Book Title, Knows How Complicated It Is To Be A Nigerian Woman. This Book Explores Themes Weightier Than Any Bbl But Never Preaches. Kuku Made Me Giggle And Gasp. I Loved It' Nikki May, Author Of Wahala And This Motherless Land 'in Her Latest Work Only Big Bumbum Matters Tomorrow, Kuku Paints A Vibrant Intergenerational Portrait Of The Female Condition In Nigeria... Funny, Fierce, And Heartfelt!' Chioma Okereke, Author Of Bitter Leaf & Water Baby ‘both Tender And Hilarious, Only Big Bumbum Matters Tomorrow Addresses The Impossible Decisions That Women In Patriarchal Societies Have To Make. Damilare Kuku Is An Enthralling Storyteller, Handling The Boisterous Harmony Of This Multigenerational Cast Of Female Characters With Compassion And Flair’ Jendella Benson, Author Of Hope & Glory",
+    "language": "en",
+    "image": "https://images.isbndb.com/covers/95/71/9781398529571.jpg",
+    "title_long": "Only Big Bumbum Matters Tomorrow",
+    "pages": "203",
+    "date_published": "2024",
+    "authors": [
+      "Damilare Kuku"
+    ],
+    "title": "Only Big Bumbum Matters Tomorrow",
+    "isbn13": "9781398529571",
+    "msrp": "0.00",
+    "isbn": "1398529575",
+    "isbn10": "1398529575"
+  },
+  {
     "publisher": "Random House Digital Inc.",
     "synopsis": "NATIONAL BESTSELLER • Inspired by C. S. Lewis’s The Chronicles of Narnia, this wild and wondrous novel is a fairy tale for grown-ups who still knock on the back of wardrobes—just in case—from the author of The Wishing Game. “This is the book you’ve been waiting for.”—Richard Russo, Pulitzer Prize–winning author of Empire Falls and the North Bath Trilogy As boys, best friends Jeremy Cox and Rafe Howell went missing in a vast West Virginia state forest, only to mysteriously reappear six months later with no explanation for where they’d gone or how they’d survived. Fifteen years after their miraculous homecoming, Rafe is a reclusive artist who still bears scars inside and out but has no memory of what happened during those months. Meanwhile, Jeremy has become a famed missing persons’ investigator. With his uncanny abilities, he is the one person who can help vet tech Emilie Wendell find her sister, who vanished in the very same forest as Rafe and Jeremy. Jeremy alone knows the fantastical truth about the disappearances, for while the rest of the world was searching for them, the two missing boys were in a magical realm filled with impossible beauty and terrible danger. He believes it is there that they will find Emilie’s sister. However, Jeremy has kept Rafe in the dark since their return for his own inscrutable reasons. But the time for burying secrets comes to an end as the quest for Emilie’s sister begins. The former lost boys must confront their shared past, no matter how traumatic the memories. Alongside the headstrong Emilie, Rafe and Jeremy must return to the enchanted world they called home for six months—for only then can they get back everything and everyone they’ve lost.",
     "language": "English",
@@ -302,6 +319,35 @@
     "other_isbns": [
       {
         "isbn": "9781668036587",
+        "binding": "printisbncanonical"
+      }
+    ]
+  },
+  {
+    "publisher": "HarperCollins",
+    "synopsis": "In this charming and emotionally resonant follow up to the internationally bestselling Days at the Morisaki Bookshop, Satoshi Yagisawa paints a poignant and thoughtful portrait of life, love, and how much books and bookstores mean to the people who love them. Set again in the beloved Japanese bookshop and nearby coffee shop in the Jimbochi neighborhood of Toyko, More Days at the Morisaki Bookshop deepens the relationship between Takako, her uncle Satoru , and the people in their lives. A new cast of heartwarming regulars have appeared in the shop, including an old man who wears the same ragged mouse-colored sweater and another who collects books solely for the official stamps with the author’s personal seal. Satoshi Yagisawa illuminates the everyday relationships between people that are forged and grown through a shared love of books. Characters leave and return, fall in and out of love, and some eventually die. As time passes, Satoru, with Takako’s help, must choose whether to keep the bookshop open or shutter its doors forever. Making the decision will take uncle and niece on an emotional journey back to their family’s roots and remind them again what a bookstore can mean to an individual, a neighborhood, and a whole culture.",
+    "language": "English",
+    "image": "https://images.isbndb.com/covers/87/21/9780063278721.jpg",
+    "title_long": "More Days At The Morisaki Bookshop",
+    "edition": 5,
+    "pages": "416",
+    "date_published": "2024-07-02",
+    "subjects": [
+      "Literary",
+      "Family Life"
+    ],
+    "authors": [
+      "Satoshi Yagisawa"
+    ],
+    "title": "More Days at the Morisaki Bookshop",
+    "isbn13": "9780063278721",
+    "msrp": "18.39",
+    "binding": "ePub",
+    "isbn": "0063278723",
+    "isbn10": "0063278723",
+    "other_isbns": [
+      {
+        "isbn": "9780063278714",
         "binding": "printisbncanonical"
       }
     ]
@@ -835,36 +881,5 @@
     "msrp": "0.00",
     "isbn": "8419988138",
     "isbn10": "8419988138"
-  },
-  {
-    "publisher": "HarperCollins",
-    "synopsis": "A TODAY Show Read With Jenna Book Club Pick! A powerful novel about the construction of the Panama Canal, casting light on the unsung people who lived, loved, and labored there It is said that the canal will be the greatest feat of engineering in history. But first, it must be built. For Francisco, a local fisherman who resents the foreign powers clamoring for a slice of his country, nothing is more upsetting than the decision of his son, Omar, to work as a digger in the excavation zone. But for Omar, whose upbringing was quiet and lonely, this job offers a chance to finally find connection. Ada Bunting is a bold sixteen-year-old from Barbados who arrives in Panama as a stowaway alongside thousands of other West Indians seeking work. Alone and with no resources, she is determined to find a job that will earn enough money for her ailing sister’s surgery. When she sees a young man—Omar—who has collapsed after a grueling shift, she is the only one who rushes to his aid. John Oswald has dedicated his life to scientific research and has journeyed to Panama in single-minded pursuit of one goal: eliminating malaria. But now, his wife, Marian, has fallen ill herself, and when he witnesses Ada’s bravery and compassion, he hires her on the spot as a caregiver. This fateful decision sets in motion a sweeping tale of ambition, loyalty, and sacrifice.  Searing and empathetic,The Great Divide explores the intersecting lives of activists, fishmongers, laborers, journalists, neighbors, doctors, and soothsayers—those rarely acknowledged by history even as they carved out its course. Named a Most Anticipated Book By:  Washington Post * Book Riot * Electric Literature * LitHub * ELLE * The Millions * Goodreads * Reader’s Digest",
-    "language": "English",
-    "image": "https://images.isbndb.com/covers/13/48/9780063291348.jpg",
-    "title_long": "Great Divide",
-    "edition": 12,
-    "pages": "212",
-    "date_published": "2024-03-05",
-    "subjects": [
-      "Sagas",
-      "Literary",
-      "Contemporary Women",
-      "Cultural Heritage"
-    ],
-    "authors": [
-      "Cristina Henriquez"
-    ],
-    "title": "The Great Divide",
-    "isbn13": "9780063291348",
-    "msrp": "24",
-    "binding": "ePub",
-    "isbn": "0063291347",
-    "isbn10": "0063291347",
-    "other_isbns": [
-      {
-        "isbn": "9780063291324",
-        "binding": "printisbncanonical"
-      }
-    ]
   }
 ]
