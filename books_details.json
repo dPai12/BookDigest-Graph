@@ -70,7 +70,13 @@
     "msrp": "23.99",
     "binding": "ePub",
     "isbn": "0316525553",
-    "isbn10": "0316525553"
+    "isbn10": "0316525553",
+    "other_isbns": [
+      {
+        "isbn": "9780316525572",
+        "binding": "printisbncanonical"
+      }
+    ]
   },
   {
     "publisher": "HarperCollins",
@@ -95,7 +101,13 @@
     "msrp": "22.4",
     "binding": "ePub",
     "isbn": "0063371235",
-    "isbn10": "0063371235"
+    "isbn10": "0063371235",
+    "other_isbns": [
+      {
+        "isbn": "9780063371200",
+        "binding": "printisbncanonical"
+      }
+    ]
   },
   {
     "publisher": "Random House Canada",
@@ -180,6 +192,18 @@
       {
         "isbn": "9780593598870",
         "binding": "printisbncanonical"
+      },
+      {
+        "isbn": "9780593740033",
+        "binding": "print"
+      },
+      {
+        "isbn": "9780593740040",
+        "binding": "print"
+      },
+      {
+        "isbn": "9798217072224",
+        "binding": "print"
       }
     ]
   },
@@ -232,6 +256,40 @@
       {
         "isbn": "9780593133491",
         "binding": "printisbncanonical"
+      }
+    ]
+  },
+  {
+    "publisher": "HarperCollins Christian",
+    "synopsis": "Sometimes you’re so busy writing other people’s stories that you lose the plot of your own. This wasn’t how Kelsey Worthington’s day was supposed to go. She wasn’t supposed to be picking up Starbucks for her smarmy boss. She wasn’t supposed to get hit by a car that jumped the curb. And she certainly wasn’t supposed to wake up in a hospital room next to Georgina Tate—the legendary matriarch of New York City businesswomen. Kelsey and Georgina couldn’t be more opposite. Kelsey’s a dreamer, a writer who questions her own skill. And Georgina is a confident businesswoman whose years of shouldering her way into boardrooms and making her voice heard have made her far too outspoken for the faint of heart. But now, when Georgina’s failing kidneys force her to face some big regrets about the way she’s lived her life, the two women recognize they share a common thread. Maybe it’s time to confront a few things. They must ask themselves: What if I said yes to everything I’ve always said no to? With Georgina as her companion, Kelsey soon finds herself doing things she’s never done before. Eating street food. Swimming in the ocean. Matchmaking for Georgina with the help of Georgina’s handsome son. And writing her own romance—both in book form and in real life. So begins the Summer of Yes. Stand-alone novel Perfect for fans of Denise Hunter and Rachel Linden Book length: 100,000 words Includes discussion questions for book clubs",
+    "language": "English",
+    "image": "https://images.isbndb.com/covers/37/28/9780840713728.jpg",
+    "title_long": "Summer Of Yes",
+    "edition": 1,
+    "pages": "416",
+    "date_published": "2024-07-02",
+    "subjects": [
+      "Contemporary",
+      "Romance",
+      "Contemporary Women"
+    ],
+    "authors": [
+      "Courtney Walsh"
+    ],
+    "title": "The Summer of Yes",
+    "isbn13": "9780840713728",
+    "msrp": "17.99",
+    "binding": "ePub",
+    "isbn": "084071372X",
+    "isbn10": "084071372X",
+    "other_isbns": [
+      {
+        "isbn": "9780840713698",
+        "binding": "printisbncanonical"
+      },
+      {
+        "isbn": "9780840713865",
+        "binding": "print"
       }
     ]
   },
@@ -611,6 +669,34 @@
   },
   {
     "publisher": "HarperCollins",
+    "synopsis": "An emotional, slow-burn, grumpy/sunshine, queer mid-century romance for fans of Evvie Drake Starts Over, about grief and found family, between the new star shortstop stuck in a batting slump and the reporter assigned to (reluctantly) cover his first season—set in the same universe as We Could Be So Good. The 1960 baseball season is shaping up to be the worst year of Eddie O’Leary’s life. He can’t manage to hit the ball, his new teammates hate him, he’s living out of a suitcase, and he’s homesick. When the team’s owner orders him to give a bunch of interviews to some snobby reporter, he’s ready to call it quits. He can barely manage to behave himself for the length of a game, let alone an entire season. But he’s already on thin ice, so he has no choice but to agree. Mark Bailey is not a sports reporter. He writes for the arts page, and these days he’s barely even managing to do that much. He’s had a rough year and just wants to be left alone in his too-empty apartment, mourning a partner he’d never been able to be public about. The last thing he needs is to spend a season writing about New York’s obnoxious new shortstop in a stunt to get the struggling newspaper more readers. Isolated together within the crush of an anonymous city, these two lonely souls orbit each other as they slowly give in to the inevitable gravity of their attraction. But Mark has vowed that he’ll never be someone’s secret ever again, and Eddie can’t be out as a professional athlete. It’s just them against the world, and they’ll both have to decide if that’s enough.",
+    "language": "English",
+    "image": "https://images.isbndb.com/covers/28/11/9780063272811.jpg",
+    "title_long": "You Should Be So Lucky",
+    "edition": 1,
+    "pages": "212",
+    "date_published": "2024-05-07",
+    "subjects": [
+      "Sports"
+    ],
+    "authors": [
+      "Cat Sebastian"
+    ],
+    "title": "You Should Be So Lucky",
+    "isbn13": "9780063272811",
+    "msrp": "15.19",
+    "binding": "ePub",
+    "isbn": "0063272814",
+    "isbn10": "0063272814",
+    "other_isbns": [
+      {
+        "isbn": "9780063272804",
+        "binding": "printisbncanonical"
+      }
+    ]
+  },
+  {
+    "publisher": "HarperCollins",
     "synopsis": "\"Linwood Barclay's I Will Ruin You is a page-turner that also has important things to say. You'll get your money's worth out of this one.\" –Stephen King In the latest novel from New York Times bestselling author Linwood Barclay, a teacher’s act of heroism inadvertently makes him the target of a dangerous blackmailer who will stop at nothing to get what he wants. How would you react in a life-or-death situation? It’s a question everyone asks themselves, but few have to face in real life. English teacher Richard Boyle certainly never thought he would find himself talking down a former student intent on harming others, but when Mark LeDrew shows up at Richard’s school with a bomb strapped to his chest, Richard immediately jumps into action. Thanks to some quick thinking, he averts a major tragedy and is hailed as a hero, but not all the attention focused on him is positive. Richard’s brief moment in the spotlight puts him in the sights of a deranged blackmailer with a score to settle. The situation rapidly spirals out of control, drawing Richard into a fraught web of salacious accusations and deadly secrets. As he tries to uncover the truth he discovers that there’s something deeply wrong in the town—something that ties together Mark, the blackmailer, and a gang of ruthless drug dealers, and Richard has landed smack in the middle of it. He’s desperate to find a way out, but everyone in his life seems to be hiding something, and trusting the wrong person could cost him everything he loves. What price will he pay for one good deed?",
     "language": "English",
     "image": "https://images.isbndb.com/covers/63/38/9780063276338.jpg",
@@ -815,81 +901,5 @@
     "msrp": "0.00",
     "isbn": "9044656279",
     "isbn10": "9044656279"
-  },
-  {
-    "publisher": "Universo Dos Livros Editora",
-    "synopsis": "Você Sentiu Falta Dele? Admita, Você Sentiu Falta Dele. Alex Hirsch, Autor Best-seller Do The New York Times, Ressuscita Este Infame Vilão E Convida Os Fãs A Conhecerem A Perspectiva De Bill Cipher Sobre O Universo De Gravity Falls. O Demônio Que Aterrorizou Gravity Falls Voltou Do Além Para Finalmente Contar Seu Lado Da História Em Um Novo Livro Escrito Por Ninguém Menos Do Que O Próprio Bill Cipher. Aqui, Ele Revela Sua Bizarra Origem, Seus Efeitos Sinistros Sobre A História Humana, Os Segredos Mais Constrangedores Da Família Pines E Um Guia Com O Passo A Passo De Como Conquistar O Mundo. Esta Obra Caótica E Lindamente Ilustrada Contém Enigmas Atordoantes, Cifras Imbatíveis, Páginas Perdidas Do Diário 3, Maneiras Para Enganar A Morte, Além Do Sentido Da Vida E Um Capítulo Inteiro Sobre Canudinhos Malucos. E O Mais Importante: Este Livro é Amaldiçoado. Muitos Acreditam Que Este Livro é Perigoso Demais Para Cair Em Mãos Humanas. Mas, Se Não Resistir, Tenha Cuidado. Caso Faça Um Acordo Com Bill, Esse Acordo Não Poderá Ser Desfeito Com Facilidade… Leia Por Sua Própria Conta E Risco! Importante: NÃo Recomendado Para Menores De 18 Anos. Sobre O Autor Alex Hirsch é Escritor, Animador, Dublador E Diretor. Ele é Mais Conhecido Por Criar Gravity Falls Para O Canal Disney Xd. Ele Cresceu Em Piedmont, Califórnia, E Se Formou Em Animação De Personagens No Instituto De Artes Da Califórnia. Ele Atualmente Mora Em Los Angeles E Trabalha No Desenvolvimento De Projetos Para O Cinema E Televisão. Apesar Dos Rumores, Ele NÃo Foi Possuído Por Um Demônio Enquanto Escrevia Este Livro. Repetindo: NÃo EstÁ PossuÍdo Por Um DemÔnio. Elogios “eu Achava Que Gostava De Coisas Estranhas, Mas Eu Estava Errado. Este Livro Foi Estranho Demais Até Para Mim. Sinto Náusea Só De Pensar Na Horripilante Psicose Contida Aí Dentro. Vou Mudar Meu Nome Para ‘normal Al’ E Jogar Fora Todas As Minhas Camisas Havaianas. Evite Este Livro A Qualquer Custo!” – “weird Al” Yankovic, Músico E Humorista Famoso Por Suas Paródias Sobre Cultura Pop “encontrei Este Livro Arcaico Em Um Corredor Cheio De Mofo Na Mais Amaldiçoada Das Bibliotecas. Visitas Noturnas Feitas Por Espíritos Malignos Começaram Quase Imediatamente. Infectou Minha Mente E Meus Sonhos, E Vai Destruir A Sua Sanidade. Por Tudo Que é Bom E Sagrado, Fique Longe Disso; Faça O Que Fizer, Não Leia Este Livro.” – Guillermo Del Toro, Cineasta Vencedor Do Oscar “olha, Odeio Discordar Do Guillermo E Do Normal Al, Mas Eu Adoro Esta Coisa! Desde Que A Li, Fico Ouvindo Gritos No Meu Cérebro Que Não Param! Vou Comprar Um Exemplar Para Todo Mundo Que Conheço! Nós Amamos O Bill! Nós Amamos O Bill! Nós Amamos O Bill!” – Charlie Day, Ator De It’s Always Sunny In Philadelphia Leia Também: · O Diário Perdido De Gravity Falls, Alex Hirsch · Gravity Falls: Lendas Perdidas, Alex Hirsch Sobre Disney Consumer Products, Games And Publishing Disney Consumer Products, Games And Publishing (cpgp) Traz A Magia Das Marcas E Franquias Da The Walt Disney Company – Incluindo Disney, Pixar, Marvel, Star Wars, National Geographic E Mais – No Cotidiano De Famílias E Fãs De Todo O Mundo Por Meio De Produtos E Experiências Em Mais De 100 Categorias De Varejo, De Brinquedos E Camisetas A Aplicativos, Livros, Videogames E Muito Mais. Uma Divisão Do Segmento De Parques, Experiências E Produtos Da Disney, As Operações Globais Da Cpgp Incluem: O Maior Negócio De Licenciamento Do Mundo, Uma Das Maiores Marcas De Publicações Infantis, Um Dos Principais Licenciadores De Jogos Interativos Entre Plataformas, Store In Stores Por Toda A Região, E O E-shop No Disneylatino.com/shop E Disney.com.br/shop (disponível No Brasil, Colômbia E México).",
-    "language": "pt",
-    "image": "https://images.isbndb.com/covers/66/81/9786556096681.jpg",
-    "title_long": "O Livro Do Bill",
-    "pages": "244",
-    "date_published": "2024",
-    "authors": [
-      "Alex Hirsch"
-    ],
-    "title": "O Livro Do Bill",
-    "isbn13": "9786556096681",
-    "msrp": "0.00",
-    "isbn": "6556096687",
-    "isbn10": "6556096687"
-  },
-  {
-    "publisher": "Simon & Schuster",
-    "synopsis": "The New York Times bestselling author of In Five Years and One Italian Summer returns with “a romantic gem” (Laura Dave, New York Times bestselling author) about a young woman who decides to finally live for herself rather than rely on the universe for answers. Daphne Bell believes the universe has a plan for her. Every time she meets a new man, she receives a slip of paper with his name and a number on it—the exact amount of time they will be together. The papers told her she’d spend three days with Martin in Paris; five weeks with Noah in San Francisco; and three months with Hugo, her ex-boyfriend turned best friend. Daphne has been receiving the numbered papers for over twenty years, always wondering when there might be one without an expiration. Finally, the night of a blind date at her favorite Los Angeles restaurant, there’s only a name: Jake. But as Jake and Daphne’s story unfolds, Daphne finds herself doubting the paper’s prediction, and wrestling with what it means to be both committed and truthful. Because Daphne knows things Jake doesn’t, information that—if he found out—would break his heart. “Daphne’s sometimes heart-wrenching, often heartwarming search for meaningful relationships, both romantic and platonic, is sure to inspire” (Publishers Weekly, starred review) new and longtime fans of Rebecca Serle.",
-    "language": "English",
-    "image": "https://images.isbndb.com/covers/68/47/9781982166847.jpg",
-    "title_long": "Expiration Dates",
-    "edition": 5,
-    "pages": "212",
-    "date_published": "2024-03-19",
-    "subjects": [
-      "Literary",
-      "Contemporary",
-      "Contemporary Women"
-    ],
-    "authors": [
-      "Rebecca Serle"
-    ],
-    "title": "Expiration Dates",
-    "isbn13": "9781982166847",
-    "msrp": "109.95",
-    "binding": "ePub",
-    "isbn": "1982166843",
-    "isbn10": "1982166843",
-    "other_isbns": [
-      {
-        "isbn": "9781982166823",
-        "binding": "printisbncanonical"
-      }
-    ]
-  },
-  {
-    "publisher": "Hachette",
-    "synopsis": "Biloxi’s best criminal defense attorney has never lost a case. Then his client’s beautiful wife is murdered, and America’s #1 lawyer suddenly becomes its #1 suspect.  Stafford Lee Penney is a small-town lawyer with a big-time reputation for winning every case he tries. In his sharp suits and polished Oxford shoes, Penney is Biloxi, Mississippi’s #1 Lawyer and top local celebrity.   Just as Penney notches his latest courtroom victory, his wife is scandalously killed. He spirals into a legal and personal losing streak, damaging his reputation and ruining his career.    That’s when Penney makes a bold decision. He stops trading on his power-lawyer identity and creates a new one: lawyer lifeguard. Moonlighting at the beach, showing up to court in flip-flops, mentoring a law student, the new Penney is at first unrecognizable.    It’s said that a lawyer who represents himself has a fool for a client. But when Penney is accused of murder, the #1 Lawyer will find a way to triumph. ",
-    "language": "English",
-    "image": "https://images.isbndb.com/covers/96/99/9780316499699.jpg",
-    "title_long": "#1 Lawyer",
-    "edition": 8,
-    "pages": "212",
-    "date_published": "2024-03-18",
-    "subjects": [
-      "Suspense"
-    ],
-    "authors": [
-      "James Patterson",
-      "Nancy Allen"
-    ],
-    "title": "The #1 Lawyer",
-    "isbn13": "9780316499699",
-    "msrp": "94.88",
-    "binding": "ePub",
-    "isbn": "0316499692",
-    "isbn10": "0316499692",
-    "other_isbns": [
-      {
-        "isbn": "9780316499675",
-        "binding": "printisbncanonical"
-      }
-    ]
   }
 ]
