@@ -748,34 +748,6 @@
     ]
   },
   {
-    "publisher": "HarperCollins",
-    "synopsis": "\"Linwood Barclay's I Will Ruin You is a page-turner that also has important things to say. You'll get your money's worth out of this one.\" –Stephen King In the latest novel from New York Times bestselling author Linwood Barclay, a teacher’s act of heroism inadvertently makes him the target of a dangerous blackmailer who will stop at nothing to get what he wants. How would you react in a life-or-death situation? It’s a question everyone asks themselves, but few have to face in real life. English teacher Richard Boyle certainly never thought he would find himself talking down a former student intent on harming others, but when Mark LeDrew shows up at Richard’s school with a bomb strapped to his chest, Richard immediately jumps into action. Thanks to some quick thinking, he averts a major tragedy and is hailed as a hero, but not all the attention focused on him is positive. Richard’s brief moment in the spotlight puts him in the sights of a deranged blackmailer with a score to settle. The situation rapidly spirals out of control, drawing Richard into a fraught web of salacious accusations and deadly secrets. As he tries to uncover the truth he discovers that there’s something deeply wrong in the town—something that ties together Mark, the blackmailer, and a gang of ruthless drug dealers, and Richard has landed smack in the middle of it. He’s desperate to find a way out, but everyone in his life seems to be hiding something, and trusting the wrong person could cost him everything he loves. What price will he pay for one good deed?",
-    "language": "English",
-    "image": "https://images.isbndb.com/covers/63/38/9780063276338.jpg",
-    "title_long": "I Will Ruin You",
-    "edition": 1,
-    "pages": "212",
-    "date_published": "2024-05-07",
-    "subjects": [
-      "Suspense"
-    ],
-    "authors": [
-      "Linwood Barclay"
-    ],
-    "title": "I Will Ruin You",
-    "isbn13": "9780063276338",
-    "msrp": "24",
-    "binding": "ePub",
-    "isbn": "006327633X",
-    "isbn10": "006327633X",
-    "other_isbns": [
-      {
-        "isbn": "9780063276314",
-        "binding": "printisbncanonical"
-      }
-    ]
-  },
-  {
     "publisher": "Oneworld Publications",
     "synopsis": "'no One Writes About Food Like Ruth Reichl... I Consider Her Essential Nourishment.' Nigella Lawson Ripping Open The Envelope, She Read Celia's Last Words To Her. There Was Just One Line Written On The Paper: 'go To Paris.' The Last Word Anyone Would Use To Describe Stella St. Vincent Is Adventurous. She's Perfectly Comfortable With The Familiar, Strict Routines Of Her Life As A Copyeditor In New York. Or At Least, She Is Until She Receives A Mysterious Note From Her Late Mother And A One-way Plane Ticket To Paris. Alone And Overwhelmed In A Foreign City, Stella Avoids New People And Ventures Out As Little As Possible. But Then She Meets Jules, An Octogenarian Art Collector With Very Different Ideas About How She Should Spend Her Time In The French Capital. And To Start With, There's A Vintage Dior Dress With Her Name On It. Somewhere Between The Cramped Shelves Of Shakespeare And Company Bookshop, The Crisp Tablecloths Of The Brasserie Les Deux Magots And A Pile Of Discarded Paintings At A Busy Flea Market, Long-buried Truths About Stella's Own Past Begin To Emerge. Soon She Starts To Wonder If There Might Not Have Been More To Her Mother's Suggestion Than She First Suspected... 'ruth Reichl Is One Of Our Greatest Storytellers. No One Writes As Warmly And Engagingly About The All-important Intersection Of Food, Life, Love, And Loss.' Alice Waters",
     "language": "en",
@@ -824,5 +796,25 @@
         "binding": "printisbncanonical"
       }
     ]
+  },
+  {
+    "publisher": "EINAUDI",
+    "synopsis": "<p>È ingenua, ma il suo sguardo sbilenco vede ciò che gli altri ignorano. È vulnerabile, ma resiste alla ferocia del suo tempo. È un personaggio letterario magnifico. La voce di Redenta continuerà a risuonare a lungo, dopo che avrete chiuso l'ultima pagina.Intenso, coraggioso, I giorni di Vetro è il romanzo della nostra fragilità e della nostra ostinata speranza di fronte allo scandalo della Storia. Redenta è nata a Castrocaro il giorno del delitto Matteotti. In paese si mormora che abbia la scarogna e che non arriverà nemmeno alla festa di San Rocco. Invece per la festa lei è ancora viva, mentre Matteotti viene ritrovato morto. È cosí che comincia davvero il fascismo, e anche la vicenda di Redenta, della sua famiglia, della sua gente. Un mondo di radicale violenza - il Ventennio, la guerra, la prevaricazione maschile - eppure di inesauribile fiducia nell'umano. Sebbene Bruno, l'adorato amico d'infanzia che le aveva promesso di sposarla, incurante della sua «gamba matta» dovuta alla polio, scompaia senza motivo, lei non smette di aspettarlo. E quando il gerarca Vetro la sceglie come sposa, il sadismo che le infligge non riesce a spegnere in lei l'istinto di salvezza: degli altri, prima che di sé. La vita di Redenta incrocia quella di Iris, partigiana nella banda del leggendario comandante Diaz. Quale segreto nasconde Iris?- Ha qualcosa che non va, la purina, - dicevano.<br> - È la scarogna, - ripeteva tranquilla mia madre, premendomi sulla bocca il seno.<br> - Però ha una bella faccina, - aggiungevano, e quel «però» era il segno della loro compassione.<br> «Però è buona», «Però è tranquilla». Però non è come gli altri.<br> - Com'è che non piange? - chiedeva la sera mio padre.<br> - Piangerà. Le donne prima o poi piangono tutte. Hanno detto de Il valore affettivo: «L'autrice procede con voce sicura nel dipanare il filo dei ricordi, con autenticità, senso del ritmo e padronanza di tempi».<br> Viola Ardone «Nicoletta Verna ha scritto un romanzo familiare di rara intensità che affonda nell'enigma di un sentimento di colpa senza redenzione».<br> Corrado Augias «Una penna che controlla perfettamente trama e personaggi».<br> Valeria Parrella<br></p>",
+    "language": "ita",
+    "image": "https://images.isbndb.com/covers/49/62/9788858444962.jpg",
+    "title_long": "Stradario sentimentale di Milano Storie dalla città che cambia",
+    "edition": 1,
+    "dimensions": "eBook",
+    "pages": "448",
+    "date_published": "2024-04-09",
+    "authors": [
+      "Nicoletta Verna"
+    ],
+    "title": "I giorni di Vetro",
+    "isbn13": "9788858444962",
+    "msrp": "0.00",
+    "binding": "eBook",
+    "isbn": "8858444965",
+    "isbn10": "8858444965"
   }
 ]
