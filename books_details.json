@@ -279,23 +279,6 @@
     ]
   },
   {
-    "publisher": "Suma",
-    "synopsis": "Vuelve La Asistenta Que Ha Revolucionado El Thriller. Una Nueva Y Adictiva Novela De La Serie Más Viral Del Momento. Yo Solía Trabajar Limpiando Las Casas De Otras Personas, Ahora Apenas Puedo Creerme Que Este Sea Mi Hogar. La Encantadora Cocina, La Calle Tranquila, El Enorme Jardín En El Que Los Niños Pueden Jugar. Mi Marido Y Yo Hemos Ahorrado Durante Años Para Que Mis Hijos Tengan La Vida Que Se Merecen. Aunque Siento Algo De Recelo Hacia Nuestra Vecina, La Señora Lowell, Veo Su Invitación A Cenar Como Una Oportunidad Para Hacer Amigos. Cuando Su Doncella Abre La Puerta Con Un Delantal Blanco Y El Pelo Recogido En Un Moño Tirante, Sé Exactamente Cómo Se Siente. Pero Su Gélida Mirada Me Produce Escalofríos... La Doncella De Los Lowell No Es Lo único Extraño De Nuestra Calle. Estoy Convencida De Que Alguien Nos Observa. Y Cuando Conozco A La Mujer Que Vive Enfrente, Sus Palabras Me Dejan Petrificada: «ten Cuidado Con Tus Vecinos». ¿cometí Un Terrible Error Mudándome Aquí Con Mi Familia? Pensaba Que Había Dejado Atrás Mis Secretos Oscuros. Pero ¿podría Ser Este Apacible Barrio Residencial El Sitio Más Peligroso De Todos?",
-    "language": "es",
-    "image": "https://images.isbndb.com/covers/71/91/9788410257191.jpg",
-    "title_long": "La Asistenta Te Vigila (la Asistenta 3)",
-    "pages": "393",
-    "date_published": "2024",
-    "authors": [
-      "Freida McFadden"
-    ],
-    "title": "La Asistenta Te Vigila (la Asistenta 3)",
-    "isbn13": "9788410257191",
-    "msrp": "0.00",
-    "isbn": "841025719X",
-    "isbn10": "841025719X"
-  },
-  {
     "publisher": "Random House",
     "synopsis": "NATIONAL BESTSELLER • An exhilarating novel about one American family and the dark moment that shatters their suburban paradise, from the New York Times bestselling author of Fleishman Is in Trouble New York Times Book Review Editors’ Choice • New York Magazine’s Beach Read Book Club Pick • Belletrist Book Club Pick “A big, juicy, wickedly funny social satire.”—Oprah Daily “Were we gangsters? No. But did we know how to start a fire?” In 1980, a wealthy businessman named Carl Fletcher is kidnapped from his driveway, brutalized, and held for ransom. He is returned to his wife and kids less than a week later, only slightly the worse, and the family moves on with their lives, resuming their prized places in the saga of the American dream, comforted in the realization that though their money may have been what endangered them, it is also what assured them their safety. But now, nearly forty years later, it’s clear that perhaps nobody ever got over anything, after all. Carl has spent the ensuing years secretly seeking closure to the matter of his kidnapping, while his wife, Ruth, has spent her potential protecting her husband’s emotional health. Their three grown children aren’t doing much better: Nathan’s chronic fear won’t allow him to advance at his law firm; Beamer, a Hollywood screenwriter, will consume anything—substance, foodstuff, women—in order to numb his own perpetual terror; and Jenny has spent her life so bent on proving that she’s not a product of her family’s pathology that she has come to define it. As they hover at the delicate precipice of a different kind of survival, they learn that the family fortune has dwindled to just about nothing, and they must face desperate questions about how much their wealth has played a part in both their lives’ successes and failures. Long Island Compromise spans the entirety of one family’s history, winding through decades and generations, all the way to the outrageous present, and confronting the mainstays of American Jewish life: tradition, the pursuit of success, the terror of history, fear of the future, old wives’ tales, evil eyes, ambition, achievement, boredom, dybbuks, inheritance, pyramid schemes, right-wing capitalists, beta-blockers, psychics, and the mostly unspoken love and shared experience that unite a family forever.",
     "language": "en",
@@ -628,6 +611,23 @@
         "binding": "printisbncanonical"
       }
     ]
+  },
+  {
+    "publisher": "Grijalbo",
+    "synopsis": "La Mejor Comedia RomÁntica La Escribe Violeta Reed. Vuelve La Autora De Yo TambiÉn No Es Te Quiero Y La BilogÍa Mis Razones. Él No Cree En Los Finales Felices Lo Primero Que Hay Que Saber Sobre Zac Anderson Es Que, Para él, El Amor Es La Peor Enfermedad Que Existe. Lo Segundo Es Que Es Un Ligón Empedernido Que Nunca Se Enamora Y A Cuya Sonrisa Encantadora Solo Se Ha Resistido Una Mujer. Y Lo Tercero, Que Es Médico Y Está A Punto De Mudarse A Manhattan. Ella Vive Por Los «sÍ, Quiero» De Las Historias De Amor Grace Harris Acaba De Ascender A Editora Jefa Y Desde El Primer Día Las Catástrofes Se Suceden En El Trabajo De Sus Sueños. Cuando Menos Se Lo Espera, La Solución Al Incendio Editorial Que Debe Apagar Se Materializa En Zac Anderson. Él Estará Dispuesto A Ayudarla Si Ella Le Acompaña A Llevar Su Coche Desde California A Nueva York. Grace Siempre Ha Querido Vivir Una Comedia Romántica, Pero Sabe Que El Creído De Zac Nunca Sería El Protagonista De La Suya. Por Eso Acepta El Trato. Son Demasiado Incompatibles Para Fijarse El Uno En El Otro, Pero Un Viaje Porcarretera A Través De La Ruta 66 Podría Demostrarles Que Están Equivocados. Y Es Que Quizá Para Que Los Polos Opuestos Se Atraigan Solo Se Necesitan 3.000 Millas De Distancia.",
+    "language": "es",
+    "image": "https://images.isbndb.com/covers/76/32/9788425367632.jpg",
+    "title_long": "Quizá Sí Quiero (quererte 2)",
+    "pages": "572",
+    "date_published": "2024",
+    "authors": [
+      "Violeta Reed"
+    ],
+    "title": "Quizá Sí Quiero (quererte 2)",
+    "isbn13": "9788425367632",
+    "msrp": "0.00",
+    "isbn": "8425367638",
+    "isbn10": "8425367638"
   },
   {
     "publisher": "Random House Digital Inc.",
