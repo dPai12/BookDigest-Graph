@@ -499,35 +499,6 @@
     "isbn10": "8858860500"
   },
   {
-    "publisher": "Simon & Schuster",
-    "synopsis": "From the author of the Read with Jenna Bonus Pick A Little Hope, an uplifting and emotionally resonant novel set in a Delaware beach town about a local restaurant owner at a turning point. Three generations of Schmidts have run their family’s beachfront restaurant and Jack has been at the helm since the death of his father. Jack puts the demands of the restaurant above all else, with a string of failed relationships, no hobbies, and no days off as proof of his commitment to the place. He can’t remember the last time he sat on the beach, or even enjoyed a moment to himself. Meanwhile, the DelDine group has been gradually snapping up beloved eateries along this stretch of coast and are pursuing Jack with a very generous offer to take Schmidt’s off his hands. Jack craves companionship and maybe even a family. He wonders if closing the door on the restaurant might open a new window for him. But who would he be without Schmidt’s, and can he trust DelDine’s claims that they will continue to employ his staff and honor his family’s legacy? When he receives startling news from the past, Jack begins to reshape his life and forge unexpected new friendships. But will he really let go of the very things that have defined him?",
-    "language": "English",
-    "image": "https://images.isbndb.com/covers/46/14/9781668024614.jpg",
-    "title_long": "Same Bright Stars",
-    "edition": 1,
-    "pages": "784",
-    "date_published": "2024-07-02",
-    "subjects": [
-      "Literary",
-      "Family Life"
-    ],
-    "authors": [
-      "Ethan Joella"
-    ],
-    "title": "The Same Bright Stars",
-    "isbn13": "9781668024614",
-    "msrp": "70",
-    "binding": "ePub",
-    "isbn": "1668024616",
-    "isbn10": "1668024616",
-    "other_isbns": [
-      {
-        "isbn": "9781668024591",
-        "binding": "printisbncanonical"
-      }
-    ]
-  },
-  {
     "publisher": "HarperCollins",
     "synopsis": "In this charming and emotionally resonant follow up to the internationally bestselling Days at the Morisaki Bookshop, Satoshi Yagisawa paints a poignant and thoughtful portrait of life, love, and how much books and bookstores mean to the people who love them. Set again in the beloved Japanese bookshop and nearby coffee shop in the Jimbochi neighborhood of Toyko, More Days at the Morisaki Bookshop deepens the relationship between Takako, her uncle Satoru , and the people in their lives. A new cast of heartwarming regulars have appeared in the shop, including an old man who wears the same ragged mouse-colored sweater and another who collects books solely for the official stamps with the author’s personal seal. Satoshi Yagisawa illuminates the everyday relationships between people that are forged and grown through a shared love of books. Characters leave and return, fall in and out of love, and some eventually die. As time passes, Satoru, with Takako’s help, must choose whether to keep the bookshop open or shutter its doors forever. Making the decision will take uncle and niece on an emotional journey back to their family’s roots and remind them again what a bookstore can mean to an individual, a neighborhood, and a whole culture.",
     "language": "English",
@@ -766,6 +737,37 @@
     "msrp": "0.00",
     "isbn": "9357089365",
     "isbn10": "9357089365"
+  },
+  {
+    "publisher": "HarperCollins",
+    "synopsis": "\"Linwood Barclay's I Will Ruin You is a page-turner that also has important things to say. You'll get your money's worth out of this one.\" –Stephen King In the latest novel from New York Times bestselling author Linwood Barclay, a teacher’s act of heroism inadvertently makes him the target of a dangerous blackmailer who will stop at nothing to get what he wants. How would you react in a life-or-death situation? It’s a question everyone asks themselves, but few have to face in real life. English teacher Richard Boyle certainly never thought he would find himself talking down a former student intent on harming others, but when Mark LeDrew shows up at Richard’s school with a bomb strapped to his chest, Richard immediately jumps into action. Thanks to some quick thinking, he averts a major tragedy and is hailed as a hero, but not all the attention focused on him is positive. Richard’s brief moment in the spotlight puts him in the sights of a deranged blackmailer with a score to settle. The situation rapidly spirals out of control, drawing Richard into a fraught web of salacious accusations and deadly secrets. As he tries to uncover the truth he discovers that there’s something deeply wrong in the town—something that ties together Mark, the blackmailer, and a gang of ruthless drug dealers, and Richard has landed smack in the middle of it. He’s desperate to find a way out, but everyone in his life seems to be hiding something, and trusting the wrong person could cost him everything he loves. What price will he pay for one good deed?",
+    "language": "English",
+    "image": "https://images.isbndb.com/covers/63/38/9780063276338.jpg",
+    "title_long": "I Will Ruin You",
+    "edition": 1,
+    "pages": "212",
+    "date_published": "2024-05-07",
+    "subjects": [
+      "Suspense",
+      "Thrillers",
+      "Crime",
+      "Psychological"
+    ],
+    "authors": [
+      "Linwood Barclay"
+    ],
+    "title": "I Will Ruin You",
+    "isbn13": "9780063276338",
+    "msrp": "24",
+    "binding": "ePub",
+    "isbn": "006327633X",
+    "isbn10": "006327633X",
+    "other_isbns": [
+      {
+        "isbn": "9780063276314",
+        "binding": "printisbncanonical"
+      }
+    ]
   },
   {
     "publisher": "Oneworld Publications",
